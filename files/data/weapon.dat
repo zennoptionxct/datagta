@@ -33,7 +33,7 @@
 # 4thDigit:	RELOAD:1	CROUCHFIRE:2	RELOAD2START:4		LONG_RELOAD:8
 # 5thDigit:	SLOWSDWN:1	RANDSPEED:2		EXPANDS:4
 #
-# MELEE DATA (use £ identifier)
+# MELEE DATA (use % identifier)
 #-----------------------------------------------
 #	J:		string baseCombo
 #	K:		int numCombos
@@ -42,26 +42,26 @@
 # Melee Weapons
 #-----------------------ranges------modelIds----slot----baseCombo---numCombos---flags---steathanimgrp----
 #	A			B		C	  D		E	F		I		J			K			L		M
-£ UNARMED		MELEE	10.0  1.76	-1	-1		0		UNARMED		4			1		null
-£ BRASSKNUCKLE	MELEE	10.0  1.76	331	-1		0		UNARMED		4			1		null
-£ GOLFCLUB		MELEE	10.0  1.76	333	-1		1		BBALLBAT	1			1		null
-£ NIGHTSTICK	MELEE	10.0  1.76	334	-1		1		BBALLBAT	1			1		null
-£ KNIFE			MELEE	10.0  1.76	335	-1		1		KNIFE		1			1		stealth_kn
-£ BASEBALLBAT	MELEE	10.0  1.76	336	-1		1		BBALLBAT	1			1		null
-£ SHOVEL		MELEE	10.0  1.6	337	-1		1		BBALLBAT	1			1		null
-£ POOLCUE		MELEE	10.0  1.76	338	-1		1		BBALLBAT	1			1		null
-£ KATANA		MELEE	10.0  1.76	339	-1		1		SWORD		1			1		null
-#£ SKATEBOARD	MELEE	10.0  1.76	340	-1		1		SKATEBOARD	1			1		null
-£ CHAINSAW		MELEE	10.0  1.76	341	-1		1		CHAINSAW	1			201		null
+% UNARMED		MELEE	10.0  1.76	-1	-1		0		UNARMED		4			1		null
+% BRASSKNUCKLE	MELEE	10.0  1.76	331	-1		0		UNARMED		4			1		null
+% GOLFCLUB		MELEE	10.0  1.76	333	-1		1		BBALLBAT	1			1		null
+% NIGHTSTICK	MELEE	10.0  1.76	334	-1		1		BBALLBAT	1			1		null
+% KNIFE			MELEE	10.0  1.76	335	-1		1		KNIFE		1			1		stealth_kn
+% BASEBALLBAT	MELEE	10.0  1.76	336	-1		1		BBALLBAT	1			1		null
+% SHOVEL		MELEE	10.0  1.6	337	-1		1		BBALLBAT	1			1		null
+% POOLCUE		MELEE	10.0  1.76	338	-1		1		BBALLBAT	1			1		null
+% KATANA		MELEE	10.0  1.76	339	-1		1		SWORD		1			1		null
+#% SKATEBOARD	MELEE	10.0  1.76	340	-1		1		SKATEBOARD	1			1		null
+% CHAINSAW		MELEE	10.0  1.76	341	-1		1		CHAINSAW	1			201		null
 # gifts ----------------
-£ DILDO1		MELEE	10.0  1.76	321	-1		10		DILDO		1			1		null
-£ DILDO2		MELEE	10.0  1.76	322	-1		10		KNIFE		1			1		null
-£ VIBE1			MELEE	10.0  1.76	323	-1		10		DILDO		1			1		null
-£ VIBE2			MELEE	10.0  1.76	324	-1		10		KNIFE		1			1		null
-£ FLOWERS		MELEE	10.0  1.76	325	-1		10		FLOWERS		1			1		null
-£ CANE			MELEE	10.0  1.76	326	-1		10		SWORD		1			1		null
+% DILDO1		MELEE	10.0  1.76	321	-1		10		DILDO		1			1		null
+% DILDO2		MELEE	10.0  1.76	322	-1		10		KNIFE		1			1		null
+% VIBE1			MELEE	10.0  1.76	323	-1		10		DILDO		1			1		null
+% VIBE2			MELEE	10.0  1.76	324	-1		10		KNIFE		1			1		null
+% FLOWERS		MELEE	10.0  1.76	325	-1		10		FLOWERS		1			1		null
+% CANE			MELEE	10.0  1.76	326	-1		10		SWORD		1			1		null
 #- special -------------
-£ PARACHUTE		MELEE	10.0  1.76	371	-1		11		UNARMED		1			1		null
+% PARACHUTE		MELEE	10.0  1.76	371	-1		11		UNARMED		1			1		null
 #
 # Gun Weapons
 #-------------------------------ranges------modelIds----slot-animgrp----ammo-dam----offset--------------skill---------------loop1--------loop2----break-flags-------old_shot_data-------
