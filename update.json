@@ -1,7 +1,7 @@
 {
   "app_server_status": true,
   "app_beta_status": false,
-  "game_version": "1.0.7",
+  "game_version": "1.0.8",
   "game_url": "https://github.com/zennoptionxct/datagta/releases/download/v1.0/app-game-release.apk",
   "samp_list_url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/samp_list.json",
   "full_list_url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/full_list.json",
