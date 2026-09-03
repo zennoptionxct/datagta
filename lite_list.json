@@ -188,7 +188,7 @@
       "name": "AMBIENCE.osw",
       "size": 22719112,
       "path": "audio/STREAMS/AMBIENCE.osw",
-      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/AMBIENCE.osw",
+      "url": "https://github.com/zennoptionxct/datagta/releases/download/v1.0/AMBIENCE.osw",
       "gpu": "all",
       "md5": "83a80c9403ceffd1d9c225c300caec32"
     },
@@ -2236,7 +2236,7 @@
       "name": "gta_int.etc.dat",
       "size": 21742444,
       "path": "texdb/gta_int/gta_int.etc.dat",
-      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/gta_int/gta_int.etc.dat",
+      "url": "https://github.com/zennoptionxct/datagta/releases/download/v1.0/gta_int.etc.dat",
       "gpu": "etc",
       "md5": "786ead0876e76fc4c5e936637e4b4326"
     },
@@ -2276,7 +2276,7 @@
       "name": "gta_int.img",
       "size": 44836864,
       "path": "texdb/gta_int.img",
-      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/gta_int.img",
+      "url": "https://github.com/zennoptionxct/datagta/releases/download/v1.0/gta_int.img",
       "gpu": "all",
       "md5": "d81cd4cb77a6a021b6696bf9043bad60"
     },
@@ -2524,7 +2524,7 @@
       "name": "playerhi.etc.dat",
       "size": 27658902,
       "path": "texdb/playerhi/playerhi.etc.dat",
-      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/playerhi/playerhi.etc.dat",
+      "url": "https://github.com/zennoptionxct/datagta/releases/download/v1.0/playerhi.etc.dat",
       "gpu": "etc",
       "md5": "0dc839aa289317ea221f8fb8f896f46c"
     },
@@ -2548,7 +2548,7 @@
       "name": "playerhi.pvr.dat",
       "size": 27658902,
       "path": "texdb/playerhi/playerhi.pvr.dat",
-      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/playerhi/playerhi.pvr.dat",
+      "url": "https://github.com/zennoptionxct/datagta/releases/download/v1.0/playerhi.pvr.dat",
       "gpu": "pvr",
       "md5": "0dc839aa289317ea221f8fb8f896f46c"
     },
@@ -2580,7 +2580,7 @@
       "name": "samp.dxt.dat",
       "size": 22341548,
       "path": "texdb/samp/samp.dxt.dat",
-      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.dxt.dat",
+      "url": "https://github.com/zennoptionxct/datagta/releases/download/v1.0/samp.dxt.dat",
       "gpu": "dxt",
       "md5": "ce8b09507407dbe49e0f385d114cfa99"
     },
@@ -2604,7 +2604,7 @@
       "name": "samp.etc.dat",
       "size": 33476356,
       "path": "texdb/samp/samp.etc.dat",
-      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.etc.dat",
+      "url": "https://github.com/zennoptionxct/datagta/releases/download/v1.0/samp.etc.dat",
       "gpu": "etc",
       "md5": "f7153ee8bf704176277fd00395fbefb4"
     },
@@ -2660,7 +2660,7 @@
       "name": "samp.unc.dat",
       "size": 33150952,
       "path": "texdb/samp/samp.unc.dat",
-      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.unc.dat",
+      "url": "https://github.com/zennoptionxct/datagta/releases/download/v1.0/samp.unc.dat",
       "gpu": "all",
       "md5": "545f272663b036d106711e3bc848624e"
     },
@@ -2684,7 +2684,7 @@
       "name": "samp.img",
       "size": 36902912,
       "path": "texdb/samp.img",
-      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp.img",
+      "url": "https://github.com/zennoptionxct/datagta/releases/download/v1.0/samp.img",
       "gpu": "all",
       "md5": "6fb0e8cbd413efa346be87c53171ebec"
     },
