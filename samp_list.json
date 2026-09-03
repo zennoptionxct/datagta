@@ -1,0 +1,164 @@
+{
+  "files": [
+    {
+      "name": "chat.log",
+      "size": 13803,
+      "path": "SAMP/chat.log",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/chat.log",
+      "gpu": "all",
+      "md5": "83dec4b4c58b51c29d75e38f499c1472"
+    },
+    {
+      "name": "colorcycle.dat",
+      "size": 15638,
+      "path": "SAMP/colorcycle.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/colorcycle.dat",
+      "gpu": "all",
+      "md5": "640257d99a14680e90ee9f59134ca257"
+    },
+    {
+      "name": "gta.dat",
+      "size": 3789,
+      "path": "SAMP/gta.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/gta.dat",
+      "gpu": "all",
+      "md5": "d8caaaa7f4fff9e5c2703d6690f43771"
+    },
+    {
+      "name": "handling.cfg",
+      "size": 64532,
+      "path": "SAMP/handling.cfg",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/handling.cfg",
+      "gpu": "all",
+      "md5": "6868accef933f1855ec28ce193a78159"
+    },
+    {
+      "name": "main.scm",
+      "size": 96997,
+      "path": "SAMP/main.scm",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/main.scm",
+      "gpu": "all",
+      "md5": "c9ef3143ddc27b883a537d24cd90f1d8"
+    },
+    {
+      "name": "peds.ide",
+      "size": 36369,
+      "path": "SAMP/peds.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/peds.ide",
+      "gpu": "all",
+      "md5": "28ebe8711e4f25f06b0c950b2ef15317"
+    },
+    {
+      "name": "SAMP.ide",
+      "size": 89349,
+      "path": "SAMP/SAMP.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/SAMP.ide",
+      "gpu": "all",
+      "md5": "5a36a5df8dfcab05900c38d75acaf594"
+    },
+    {
+      "name": "samp.log",
+      "size": 58465,
+      "path": "SAMP/samp.log",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/samp.log",
+      "gpu": "all",
+      "md5": "b1408cd9235eff70353744183dc423e1"
+    },
+    {
+      "name": "script.img",
+      "size": 184320,
+      "path": "SAMP/script.img",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/script.img",
+      "gpu": "all",
+      "md5": "89a033d7aa51fef232d99fc8edabf384"
+    },
+    {
+      "name": "server.ini",
+      "size": 131,
+      "path": "SAMP/server.ini",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/server.ini",
+      "gpu": "all",
+      "md5": "577f554cabf80e5bc5849fc2dd93ecae"
+    },
+    {
+      "name": "settings.ini",
+      "size": 180,
+      "path": "SAMP/settings.ini",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/settings.ini",
+      "gpu": "all",
+      "md5": "ed014369efaa0330e34583fa9b59da27"
+    },
+    {
+      "name": "settings.json",
+      "size": 863,
+      "path": "SAMP/settings.json",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/settings.json",
+      "gpu": "all",
+      "md5": "9d9d7ad4ae22c22615a7074444d63e30"
+    },
+    {
+      "name": "svlog.txt",
+      "size": 2263,
+      "path": "SAMP/svlog.txt",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/svlog.txt",
+      "gpu": "all",
+      "md5": "d68b35225499f8bb574e44c08a349d4b"
+    },
+    {
+      "name": "timecyc.dat",
+      "size": 56375,
+      "path": "SAMP/timecyc.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/timecyc.dat",
+      "gpu": "all",
+      "md5": "2a2c0c65e7e42d19cdec02ec2a999918"
+    },
+    {
+      "name": "tracks2.dat",
+      "size": 1,
+      "path": "SAMP/tracks2.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/tracks2.dat",
+      "gpu": "all",
+      "md5": "cfcd208495d565ef66e7dff9f98764da"
+    },
+    {
+      "name": "tracks4.dat",
+      "size": 1,
+      "path": "SAMP/tracks4.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/tracks4.dat",
+      "gpu": "all",
+      "md5": "cfcd208495d565ef66e7dff9f98764da"
+    },
+    {
+      "name": "vehicleAudioSettings.cfg",
+      "size": 56871,
+      "path": "SAMP/vehicleAudioSettings.cfg",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/vehicleAudioSettings.cfg",
+      "gpu": "all",
+      "md5": "f4068b623bff1966e6826478b37a461d"
+    },
+    {
+      "name": "vehicles.ide",
+      "size": 21093,
+      "path": "SAMP/vehicles.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/vehicles.ide",
+      "gpu": "all",
+      "md5": "bdc3a0fced2402c5bc61585714457d4b"
+    },
+    {
+      "name": "voice.log",
+      "size": 795,
+      "path": "SAMP/voice.log",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/voice.log",
+      "gpu": "all",
+      "md5": "726abda515e05886cab33a8c170c8c5f"
+    },
+    {
+      "name": "WEAPON.dat",
+      "size": 11585,
+      "path": "SAMP/WEAPON.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/WEAPON.dat",
+      "gpu": "all",
+      "md5": "0a9bb49003680364f9f9768e9bcea982"
+    }
+  ]
+}

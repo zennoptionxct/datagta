@@ -1,0 +1,2748 @@
+{
+  "files": [
+    {
+      "name": "Adjustable.cfg",
+      "size": 1464,
+      "path": "Adjustable.cfg",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/Adjustable.cfg",
+      "gpu": "all",
+      "md5": "c23a146719ead26ddc4f19b9455bea03"
+    },
+    {
+      "name": "anim.img",
+      "size": 10942464,
+      "path": "anim/anim.img",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/anim/anim.img",
+      "gpu": "all",
+      "md5": "3359ba8cb820299161199ee7ef3f1c02"
+    },
+    {
+      "name": "cuts.img",
+      "size": 16029696,
+      "path": "anim/cuts.img",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/anim/cuts.img",
+      "gpu": "all",
+      "md5": "47ed437d63709bc3b194a5781fd1b9d6"
+    },
+    {
+      "name": "ped.ifp",
+      "size": 1914290,
+      "path": "anim/ped.ifp",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/anim/ped.ifp",
+      "gpu": "all",
+      "md5": "ee045a0644cee404006f67daa00c4494"
+    },
+    {
+      "name": "AudioEventHistory.txt",
+      "size": 114056,
+      "path": "audio/CONFIG/AudioEventHistory.txt",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/CONFIG/AudioEventHistory.txt",
+      "gpu": "all",
+      "md5": "4f15962340d51394d47a60e11cdbb608"
+    },
+    {
+      "name": "BankLkup.dat",
+      "size": 8520,
+      "path": "audio/CONFIG/BankLkup.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/CONFIG/BankLkup.dat",
+      "gpu": "all",
+      "md5": "b45905c794677467644240aa9abc2f60"
+    },
+    {
+      "name": "BankSlot.dat",
+      "size": 216902,
+      "path": "audio/CONFIG/BankSlot.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/CONFIG/BankSlot.dat",
+      "gpu": "all",
+      "md5": "da40c568a349b58c78c2a8faf8da95a9"
+    },
+    {
+      "name": "EventVol.dat",
+      "size": 45402,
+      "path": "audio/CONFIG/EventVol.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/CONFIG/EventVol.dat",
+      "gpu": "all",
+      "md5": "d676adc31b1d0a95631451344892ddd2"
+    },
+    {
+      "name": "PakFiles.dat",
+      "size": 468,
+      "path": "audio/CONFIG/PakFiles.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/CONFIG/PakFiles.dat",
+      "gpu": "all",
+      "md5": "db1e657a3baafbb86cd1b715c5282c66"
+    },
+    {
+      "name": "SOUNDINF.DAT",
+      "size": 746760,
+      "path": "audio/CONFIG/SOUNDINF.DAT",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/CONFIG/SOUNDINF.DAT",
+      "gpu": "all",
+      "md5": "a220a41520d4c1e58c211835fbeca840"
+    },
+    {
+      "name": "StrmPaks.dat",
+      "size": 272,
+      "path": "audio/CONFIG/StrmPaks.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/CONFIG/StrmPaks.dat",
+      "gpu": "all",
+      "md5": "6e65fd943ad6b0bbbc032e1f081ce699"
+    },
+    {
+      "name": "TrakLkup.dat",
+      "size": 23064,
+      "path": "audio/CONFIG/TrakLkup.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/CONFIG/TrakLkup.dat",
+      "gpu": "all",
+      "md5": "528e75d663b8bae072a01351081a2145"
+    },
+    {
+      "name": "TRKHEAD.DAT",
+      "size": 15506696,
+      "path": "audio/CONFIG/TRKHEAD.DAT",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/CONFIG/TRKHEAD.DAT",
+      "gpu": "all",
+      "md5": "5f0d3c7295e8d1c7371fab89a6989723"
+    },
+    {
+      "name": "FEET.osw",
+      "size": 138118,
+      "path": "audio/SFX/FEET.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/SFX/FEET.osw",
+      "gpu": "all",
+      "md5": "e96c0b200c3437c5088ff2bd5a9054d6"
+    },
+    {
+      "name": "FEET.osw.idx",
+      "size": 1220,
+      "path": "audio/SFX/FEET.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/SFX/FEET.osw.idx",
+      "gpu": "all",
+      "md5": "11635b4690838fae6ab1082d30a93890"
+    },
+    {
+      "name": "GENRL.osw",
+      "size": 9362373,
+      "path": "audio/SFX/GENRL.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/SFX/GENRL.osw",
+      "gpu": "all",
+      "md5": "49f36f13260ed27c40fbce4175706cd2"
+    },
+    {
+      "name": "GENRL.osw.idx",
+      "size": 20868,
+      "path": "audio/SFX/GENRL.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/SFX/GENRL.osw.idx",
+      "gpu": "all",
+      "md5": "1430abad9623bcc316638c75017c1261"
+    },
+    {
+      "name": "PAIN_A.osw",
+      "size": 3247335,
+      "path": "audio/SFX/PAIN_A.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/SFX/PAIN_A.osw",
+      "gpu": "all",
+      "md5": "6e2ec42799b7e6f366437e5cb4d04911"
+    },
+    {
+      "name": "PAIN_A.osw.idx",
+      "size": 12836,
+      "path": "audio/SFX/PAIN_A.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/SFX/PAIN_A.osw.idx",
+      "gpu": "all",
+      "md5": "aeb673a62ca2b30244a049429b1e1265"
+    },
+    {
+      "name": "AA.osw",
+      "size": 15462,
+      "path": "audio/STREAMS/AA.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/AA.osw",
+      "gpu": "all",
+      "md5": "fc1179502b4313a197e05bc42e6005ba"
+    },
+    {
+      "name": "AA.osw.idx",
+      "size": 1522,
+      "path": "audio/STREAMS/AA.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/AA.osw.idx",
+      "gpu": "all",
+      "md5": "7d3d3960131764d70b1b268ee5d332f7"
+    },
+    {
+      "name": "ADVERTS.osw",
+      "size": 3516982,
+      "path": "audio/STREAMS/ADVERTS.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/ADVERTS.osw",
+      "gpu": "all",
+      "md5": "4ded1e1f6d9b3917617d495f5d063a13"
+    },
+    {
+      "name": "ADVERTS.osw.idx",
+      "size": 1591,
+      "path": "audio/STREAMS/ADVERTS.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/ADVERTS.osw.idx",
+      "gpu": "all",
+      "md5": "22e59aad9134b004dc4451ac31e123aa"
+    },
+    {
+      "name": "AMBIENCE.osw",
+      "size": 22719112,
+      "path": "audio/STREAMS/AMBIENCE.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/AMBIENCE.osw",
+      "gpu": "all",
+      "md5": "83a80c9403ceffd1d9c225c300caec32"
+    },
+    {
+      "name": "AMBIENCE.osw.idx",
+      "size": 924,
+      "path": "audio/STREAMS/AMBIENCE.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/AMBIENCE.osw.idx",
+      "gpu": "all",
+      "md5": "f4713422eb3a13f8050fe963397cd454"
+    },
+    {
+      "name": "BEATS.osw",
+      "size": 9415375,
+      "path": "audio/STREAMS/BEATS.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/BEATS.osw",
+      "gpu": "all",
+      "md5": "d04cd2d6190f1c39c1251a66a5651f14"
+    },
+    {
+      "name": "BEATS.osw.idx",
+      "size": 234,
+      "path": "audio/STREAMS/BEATS.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/BEATS.osw.idx",
+      "gpu": "all",
+      "md5": "25ad0a62f7324958d14ebdd63032bcf0"
+    },
+    {
+      "name": "CH.osw",
+      "size": 15462,
+      "path": "audio/STREAMS/CH.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/CH.osw",
+      "gpu": "all",
+      "md5": "fc1179502b4313a197e05bc42e6005ba"
+    },
+    {
+      "name": "CH.osw.idx",
+      "size": 2994,
+      "path": "audio/STREAMS/CH.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/CH.osw.idx",
+      "gpu": "all",
+      "md5": "c73c042a6522b5a7d35d8e22333f0adb"
+    },
+    {
+      "name": "CO.osw",
+      "size": 15462,
+      "path": "audio/STREAMS/CO.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/CO.osw",
+      "gpu": "all",
+      "md5": "fc1179502b4313a197e05bc42e6005ba"
+    },
+    {
+      "name": "CO.osw.idx",
+      "size": 3569,
+      "path": "audio/STREAMS/CO.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/CO.osw.idx",
+      "gpu": "all",
+      "md5": "d876639142072405c9e3d74b80fc11bf"
+    },
+    {
+      "name": "CR.osw",
+      "size": 15462,
+      "path": "audio/STREAMS/CR.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/CR.osw",
+      "gpu": "all",
+      "md5": "fc1179502b4313a197e05bc42e6005ba"
+    },
+    {
+      "name": "CR.osw.idx",
+      "size": 3592,
+      "path": "audio/STREAMS/CR.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/CR.osw.idx",
+      "gpu": "all",
+      "md5": "4c6821f5770d5c5049b121c4eaca06e0"
+    },
+    {
+      "name": "CUTSCENE.osw",
+      "size": 301175,
+      "path": "audio/STREAMS/CUTSCENE.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/CUTSCENE.osw",
+      "gpu": "all",
+      "md5": "f0ba6914f2152e2eb98b0f18e6e6a40a"
+    },
+    {
+      "name": "CUTSCENE.osw.idx",
+      "size": 3247,
+      "path": "audio/STREAMS/CUTSCENE.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/CUTSCENE.osw.idx",
+      "gpu": "all",
+      "md5": "1b2f53c874854fee1e8ad76ca1acc219"
+    },
+    {
+      "name": "DS.osw",
+      "size": 15462,
+      "path": "audio/STREAMS/DS.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/DS.osw",
+      "gpu": "all",
+      "md5": "fc1179502b4313a197e05bc42e6005ba"
+    },
+    {
+      "name": "DS.osw.idx",
+      "size": 4121,
+      "path": "audio/STREAMS/DS.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/DS.osw.idx",
+      "gpu": "all",
+      "md5": "545a2017199e4559c5c21718a9a9d2ac"
+    },
+    {
+      "name": "HC.osw",
+      "size": 15462,
+      "path": "audio/STREAMS/HC.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/HC.osw",
+      "gpu": "all",
+      "md5": "fc1179502b4313a197e05bc42e6005ba"
+    },
+    {
+      "name": "HC.osw.idx",
+      "size": 2649,
+      "path": "audio/STREAMS/HC.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/HC.osw.idx",
+      "gpu": "all",
+      "md5": "c512967bedfc33bc90fcf430af54f356"
+    },
+    {
+      "name": "MH.osw",
+      "size": 15462,
+      "path": "audio/STREAMS/MH.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/MH.osw",
+      "gpu": "all",
+      "md5": "fc1179502b4313a197e05bc42e6005ba"
+    },
+    {
+      "name": "MH.osw.idx",
+      "size": 3500,
+      "path": "audio/STREAMS/MH.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/MH.osw.idx",
+      "gpu": "all",
+      "md5": "018ad9b23fa611d6cc631f903fa95fbc"
+    },
+    {
+      "name": "MR.osw",
+      "size": 15462,
+      "path": "audio/STREAMS/MR.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/MR.osw",
+      "gpu": "all",
+      "md5": "fc1179502b4313a197e05bc42e6005ba"
+    },
+    {
+      "name": "MR.osw.idx",
+      "size": 3385,
+      "path": "audio/STREAMS/MR.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/MR.osw.idx",
+      "gpu": "all",
+      "md5": "ca335e98341486d7423dad1705b6c3fa"
+    },
+    {
+      "name": "NJ.osw",
+      "size": 15462,
+      "path": "audio/STREAMS/NJ.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/NJ.osw",
+      "gpu": "all",
+      "md5": "fc1179502b4313a197e05bc42e6005ba"
+    },
+    {
+      "name": "NJ.osw.idx",
+      "size": 2994,
+      "path": "audio/STREAMS/NJ.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/NJ.osw.idx",
+      "gpu": "all",
+      "md5": "8d9c6d51e2b6187a87d2151108333483"
+    },
+    {
+      "name": "RE.osw",
+      "size": 15462,
+      "path": "audio/STREAMS/RE.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/RE.osw",
+      "gpu": "all",
+      "md5": "fc1179502b4313a197e05bc42e6005ba"
+    },
+    {
+      "name": "RE.osw.idx",
+      "size": 3707,
+      "path": "audio/STREAMS/RE.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/RE.osw.idx",
+      "gpu": "all",
+      "md5": "aa9bc67d96f8b9440ac643df8abbf87f"
+    },
+    {
+      "name": "RG.osw",
+      "size": 15462,
+      "path": "audio/STREAMS/RG.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/RG.osw",
+      "gpu": "all",
+      "md5": "fc1179502b4313a197e05bc42e6005ba"
+    },
+    {
+      "name": "RG.osw.idx",
+      "size": 3914,
+      "path": "audio/STREAMS/RG.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/RG.osw.idx",
+      "gpu": "all",
+      "md5": "e801c09baf64a2944a0826933df3c271"
+    },
+    {
+      "name": "TK.osw",
+      "size": 15462,
+      "path": "audio/STREAMS/TK.osw",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/TK.osw",
+      "gpu": "all",
+      "md5": "fc1179502b4313a197e05bc42e6005ba"
+    },
+    {
+      "name": "TK.osw.idx",
+      "size": 2327,
+      "path": "audio/STREAMS/TK.osw.idx",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/audio/STREAMS/TK.osw.idx",
+      "gpu": "all",
+      "md5": "b10ccdf74ab7e576e082ac6f13a893a1"
+    },
+    {
+      "name": "azvoice.log",
+      "size": 0,
+      "path": "AZVoice/azvoice.log",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/AZVoice/azvoice.log",
+      "gpu": "all",
+      "md5": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    {
+      "name": "CINFO.BIN",
+      "size": 634084,
+      "path": "CINFO.BIN",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/CINFO.BIN",
+      "gpu": "all",
+      "md5": "a2e93f623fe5877b87e90a2a67059b6f"
+    },
+    {
+      "name": "360Default1280x720.cfg",
+      "size": 10898,
+      "path": "data/360Default1280x720.cfg",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/360Default1280x720.cfg",
+      "gpu": "all",
+      "md5": "561609b81469d3ac5dd7325ff388b8de"
+    },
+    {
+      "name": "360Default960x720.cfg",
+      "size": 10888,
+      "path": "data/360Default960x720.cfg",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/360Default960x720.cfg",
+      "gpu": "all",
+      "md5": "cbd566273bb949526dd68f9cd6a34ad4"
+    },
+    {
+      "name": "animgrp.dat",
+      "size": 3096,
+      "path": "data/animgrp.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/animgrp.dat",
+      "gpu": "all",
+      "md5": "6a484b0b2356c524207d939487f1bff1"
+    },
+    {
+      "name": "ar_stats.dat",
+      "size": 3593,
+      "path": "data/ar_stats.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/ar_stats.dat",
+      "gpu": "all",
+      "md5": "a98936b0f3523f23cad2eacc0eaf7a9b"
+    },
+    {
+      "name": "carcols.dat",
+      "size": 15361,
+      "path": "data/carcols.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/carcols.dat",
+      "gpu": "all",
+      "md5": "2b33843e79bd113873a5d0fb02157749"
+    },
+    {
+      "name": "cargrp.dat",
+      "size": 3963,
+      "path": "data/cargrp.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/cargrp.dat",
+      "gpu": "all",
+      "md5": "63138ab62a10428a7c88f0be8ece094d"
+    },
+    {
+      "name": "carmods.dat",
+      "size": 9110,
+      "path": "data/carmods.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/carmods.dat",
+      "gpu": "all",
+      "md5": "6cbe845361e76aae35ddca300867cadf"
+    },
+    {
+      "name": "clothes.dat",
+      "size": 5317,
+      "path": "data/clothes.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/clothes.dat",
+      "gpu": "all",
+      "md5": "8762637e580eb936111859ffa29bddb4"
+    },
+    {
+      "name": "colorcycle.dat",
+      "size": 16280,
+      "path": "data/colorcycle.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/colorcycle.dat",
+      "gpu": "all",
+      "md5": "bb526457d88b27a0648d87a62ce6cb6e"
+    },
+    {
+      "name": "Cop.ped",
+      "size": 4908,
+      "path": "data/Decision/Allowed/Cop.ped",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/Cop.ped",
+      "gpu": "all",
+      "md5": "2b2456482e8719e8c64877070fecee7f"
+    },
+    {
+      "name": "Fireman.ped",
+      "size": 4435,
+      "path": "data/Decision/Allowed/Fireman.ped",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/Fireman.ped",
+      "gpu": "all",
+      "md5": "99ef637f82455921c9572fede370e33b"
+    },
+    {
+      "name": "GangMbr.ped",
+      "size": 6194,
+      "path": "data/Decision/Allowed/GangMbr.ped",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/GangMbr.ped",
+      "gpu": "all",
+      "md5": "cd6e25e2a07fa5e1cc2f0d952c51f3af"
+    },
+    {
+      "name": "Indoors.ped",
+      "size": 2809,
+      "path": "data/Decision/Allowed/Indoors.ped",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/Indoors.ped",
+      "gpu": "all",
+      "md5": "5071731f4fd49d79b0562c7dec9a673b"
+    },
+    {
+      "name": "MISSION.grp",
+      "size": 2758,
+      "path": "data/Decision/Allowed/MISSION.grp",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/MISSION.grp",
+      "gpu": "all",
+      "md5": "837dd1e06da29bf5d7210a9074164cf2"
+    },
+    {
+      "name": "m_empty.ped",
+      "size": 982,
+      "path": "data/Decision/Allowed/m_empty.ped",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/m_empty.ped",
+      "gpu": "all",
+      "md5": "149d0c778cab34b995d3958f44eeb18b"
+    },
+    {
+      "name": "m_norm.ped",
+      "size": 4142,
+      "path": "data/Decision/Allowed/m_norm.ped",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/m_norm.ped",
+      "gpu": "all",
+      "md5": "d6ed517e1e6809c6ad0e9e2c163f410e"
+    },
+    {
+      "name": "m_plyr.ped",
+      "size": 2000,
+      "path": "data/Decision/Allowed/m_plyr.ped",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/m_plyr.ped",
+      "gpu": "all",
+      "md5": "50ec4c398f482bbe9428e1011b4bc0b2"
+    },
+    {
+      "name": "m_steal.ped",
+      "size": 3663,
+      "path": "data/Decision/Allowed/m_steal.ped",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/m_steal.ped",
+      "gpu": "all",
+      "md5": "ea0e40c00071a4a9446c19b12bf5a035"
+    },
+    {
+      "name": "m_tough.ped",
+      "size": 3980,
+      "path": "data/Decision/Allowed/m_tough.ped",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/m_tough.ped",
+      "gpu": "all",
+      "md5": "be9ea5daacc227b8383b9c84a5b3fa9b"
+    },
+    {
+      "name": "m_weak.ped",
+      "size": 4062,
+      "path": "data/Decision/Allowed/m_weak.ped",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/m_weak.ped",
+      "gpu": "all",
+      "md5": "03dc3abafa80abec285adc0bddee6777"
+    },
+    {
+      "name": "RANDOM.grp",
+      "size": 4623,
+      "path": "data/Decision/Allowed/RANDOM.grp",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/RANDOM.grp",
+      "gpu": "all",
+      "md5": "cda22c3bed5dd3742542084461082d24"
+    },
+    {
+      "name": "RANDOM.ped",
+      "size": 4142,
+      "path": "data/Decision/Allowed/RANDOM.ped",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/RANDOM.ped",
+      "gpu": "all",
+      "md5": "d6ed517e1e6809c6ad0e9e2c163f410e"
+    },
+    {
+      "name": "RANDOM2.grp",
+      "size": 4623,
+      "path": "data/Decision/Allowed/RANDOM2.grp",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/RANDOM2.grp",
+      "gpu": "all",
+      "md5": "25cfafb3b7da432277bfa1291df4d58d"
+    },
+    {
+      "name": "R_Norm.ped",
+      "size": 6450,
+      "path": "data/Decision/Allowed/R_Norm.ped",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/R_Norm.ped",
+      "gpu": "all",
+      "md5": "75d670db732344ec3f90e7db71b1e3a6"
+    },
+    {
+      "name": "R_Tough.ped",
+      "size": 6378,
+      "path": "data/Decision/Allowed/R_Tough.ped",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/R_Tough.ped",
+      "gpu": "all",
+      "md5": "b3e4ca143c1bbcbf99ebf70ef95e7343"
+    },
+    {
+      "name": "R_Weak.ped",
+      "size": 6289,
+      "path": "data/Decision/Allowed/R_Weak.ped",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/Allowed/R_Weak.ped",
+      "gpu": "all",
+      "md5": "3cddd65754ad3c6ee8aec71b8a69b6c3"
+    },
+    {
+      "name": "PedEvent.txt",
+      "size": 1298,
+      "path": "data/Decision/PedEvent.txt",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/Decision/PedEvent.txt",
+      "gpu": "all",
+      "md5": "e4fa5caa1558f2945294a3652e6f0cde"
+    },
+    {
+      "name": "default.dat",
+      "size": 577,
+      "path": "data/default.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/default.dat",
+      "gpu": "all",
+      "md5": "8e133355396761bd5cd16bf873154b30"
+    },
+    {
+      "name": "default.ide",
+      "size": 4679,
+      "path": "data/default.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/default.ide",
+      "gpu": "all",
+      "md5": "5b6d75bae827e2d88f24f2be66a037bb"
+    },
+    {
+      "name": "fonts.dat",
+      "size": 3576,
+      "path": "data/fonts.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/fonts.dat",
+      "gpu": "all",
+      "md5": "dd73451954efe3f030c0da2ce9732d69"
+    },
+    {
+      "name": "furnitur.dat",
+      "size": 16480,
+      "path": "data/furnitur.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/furnitur.dat",
+      "gpu": "all",
+      "md5": "3199fc8b81a4c5334a497508fe408afd"
+    },
+    {
+      "name": "gridref.dat",
+      "size": 1498,
+      "path": "data/gridref.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/gridref.dat",
+      "gpu": "all",
+      "md5": "795a9c013ee683e286768e06e4a5e2d7"
+    },
+    {
+      "name": "gta.dat",
+      "size": 3808,
+      "path": "data/gta.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/gta.dat",
+      "gpu": "all",
+      "md5": "d9dd8d415d4e38336e3829413b4de3e9"
+    },
+    {
+      "name": "handling.cfg",
+      "size": 64532,
+      "path": "data/handling.cfg",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/handling.cfg",
+      "gpu": "all",
+      "md5": "351ef92fc22fa3c1042dd26b1cd73a30"
+    },
+    {
+      "name": "info.zon",
+      "size": 28139,
+      "path": "data/info.zon",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/info.zon",
+      "gpu": "all",
+      "md5": "7df10bed5404a2f7669cdfaa47b8b81b"
+    },
+    {
+      "name": "map.zon",
+      "size": 436,
+      "path": "data/map.zon",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/map.zon",
+      "gpu": "all",
+      "md5": "79d255c7a27bb49b50d680390e908e5a"
+    },
+    {
+      "name": "Audiozon.ipl",
+      "size": 10802,
+      "path": "data/maps/Audiozon.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/Audiozon.ipl",
+      "gpu": "all",
+      "md5": "bc3d7fc5a6927b61c10acda92e7e20c0"
+    },
+    {
+      "name": "countn2.ide",
+      "size": 35439,
+      "path": "data/maps/country/countn2.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/country/countn2.ide",
+      "gpu": "all",
+      "md5": "dccadbae670b170f9ead0ec7ef53867f"
+    },
+    {
+      "name": "countn2.ipl",
+      "size": 41665,
+      "path": "data/maps/country/countn2.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/country/countn2.ipl",
+      "gpu": "all",
+      "md5": "0727df5077b9a6bb7e3e23c1c3990da9"
+    },
+    {
+      "name": "countrye.ide",
+      "size": 34529,
+      "path": "data/maps/country/countrye.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/country/countrye.ide",
+      "gpu": "all",
+      "md5": "0c476a1bbe5ddf9c1f7021cb298a145a"
+    },
+    {
+      "name": "countrye.ipl",
+      "size": 49301,
+      "path": "data/maps/country/countrye.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/country/countrye.ipl",
+      "gpu": "all",
+      "md5": "5033cf4354baaad2a521031a1b318df0"
+    },
+    {
+      "name": "countryN.ide",
+      "size": 11308,
+      "path": "data/maps/country/countryN.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/country/countryN.ide",
+      "gpu": "all",
+      "md5": "6d765a04a0e761b754748b6e4a905a5c"
+    },
+    {
+      "name": "countryN.ipl",
+      "size": 14407,
+      "path": "data/maps/country/countryN.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/country/countryN.ipl",
+      "gpu": "all",
+      "md5": "443490bda181e7f87e74fcc7704f2500"
+    },
+    {
+      "name": "countryS.ide",
+      "size": 18450,
+      "path": "data/maps/country/countryS.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/country/countryS.ide",
+      "gpu": "all",
+      "md5": "b456a90819ef760ba96f25fec205c6d1"
+    },
+    {
+      "name": "countryS.ipl",
+      "size": 33835,
+      "path": "data/maps/country/countryS.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/country/countryS.ipl",
+      "gpu": "all",
+      "md5": "8d1bd4b5d337139ff3a953d44fc2b0e3"
+    },
+    {
+      "name": "countryW.ide",
+      "size": 19704,
+      "path": "data/maps/country/countryW.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/country/countryW.ide",
+      "gpu": "all",
+      "md5": "075e7164a77d3b1a3e2e80f3ee29333a"
+    },
+    {
+      "name": "countryw.ipl",
+      "size": 35057,
+      "path": "data/maps/country/countryw.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/country/countryw.ipl",
+      "gpu": "all",
+      "md5": "a46e0560ee61446cbb4d531d99dec553"
+    },
+    {
+      "name": "counxref.ide",
+      "size": 8494,
+      "path": "data/maps/country/counxref.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/country/counxref.ide",
+      "gpu": "all",
+      "md5": "67473a3c459f7b3998b498190b72cf62"
+    },
+    {
+      "name": "cull.ipl",
+      "size": 104318,
+      "path": "data/maps/cull.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/cull.ipl",
+      "gpu": "all",
+      "md5": "7d723b80560f956bddb8d97ed66086b8"
+    },
+    {
+      "name": "barriers.ide",
+      "size": 1437,
+      "path": "data/maps/generic/barriers.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/generic/barriers.ide",
+      "gpu": "all",
+      "md5": "d22010cd9522b19bf07efbc421872add"
+    },
+    {
+      "name": "dynamic.ide",
+      "size": 4618,
+      "path": "data/maps/generic/dynamic.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/generic/dynamic.ide",
+      "gpu": "all",
+      "md5": "10263be23116e17304a617d8a72fc36e"
+    },
+    {
+      "name": "dynamic2.ide",
+      "size": 10512,
+      "path": "data/maps/generic/dynamic2.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/generic/dynamic2.ide",
+      "gpu": "all",
+      "md5": "0827c42b4ecfb5b0e8081f5fb45eaac4"
+    },
+    {
+      "name": "multiobj.ide",
+      "size": 5020,
+      "path": "data/maps/generic/multiobj.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/generic/multiobj.ide",
+      "gpu": "all",
+      "md5": "63d672310c0cf0efaa8b96c584dd407a"
+    },
+    {
+      "name": "procobj.ide",
+      "size": 4755,
+      "path": "data/maps/generic/procobj.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/generic/procobj.ide",
+      "gpu": "all",
+      "md5": "b11bfe0f78c116d7c91b9426c8a7c94f"
+    },
+    {
+      "name": "vegepart.ide",
+      "size": 8062,
+      "path": "data/maps/generic/vegepart.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/generic/vegepart.ide",
+      "gpu": "all",
+      "md5": "b9c84559de97b49ce2036498b3d504d5"
+    },
+    {
+      "name": "gen_int1.ide",
+      "size": 2747,
+      "path": "data/maps/interior/gen_int1.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/gen_int1.ide",
+      "gpu": "all",
+      "md5": "8cdc36bf580a82bf281c9d3a257d4742"
+    },
+    {
+      "name": "gen_int1.ipl",
+      "size": 21074,
+      "path": "data/maps/interior/gen_int1.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/gen_int1.ipl",
+      "gpu": "all",
+      "md5": "eb13aff288ed3876354a326a22f29d93"
+    },
+    {
+      "name": "gen_int2.ide",
+      "size": 10941,
+      "path": "data/maps/interior/gen_int2.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/gen_int2.ide",
+      "gpu": "all",
+      "md5": "9b55e0b126ef22f3703b5ccf5bb1b174"
+    },
+    {
+      "name": "gen_int2.ipl",
+      "size": 1683,
+      "path": "data/maps/interior/gen_int2.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/gen_int2.ipl",
+      "gpu": "all",
+      "md5": "5efb82b23a9462cbf4c1d0ba6dbc9fd4"
+    },
+    {
+      "name": "gen_int3.ide",
+      "size": 3252,
+      "path": "data/maps/interior/gen_int3.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/gen_int3.ide",
+      "gpu": "all",
+      "md5": "5119e846419e50bbc35bd57415d4376e"
+    },
+    {
+      "name": "gen_int3.ipl",
+      "size": 2091,
+      "path": "data/maps/interior/gen_int3.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/gen_int3.ipl",
+      "gpu": "all",
+      "md5": "e14d644ed3a26d5711704f875f2c11e1"
+    },
+    {
+      "name": "gen_int4.ide",
+      "size": 2323,
+      "path": "data/maps/interior/gen_int4.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/gen_int4.ide",
+      "gpu": "all",
+      "md5": "16c7dba5af8ae61172599f29ed9dd6c0"
+    },
+    {
+      "name": "gen_int4.ipl",
+      "size": 1185,
+      "path": "data/maps/interior/gen_int4.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/gen_int4.ipl",
+      "gpu": "all",
+      "md5": "339028d9c3aac53a8a28212179fced01"
+    },
+    {
+      "name": "gen_int5.ide",
+      "size": 4682,
+      "path": "data/maps/interior/gen_int5.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/gen_int5.ide",
+      "gpu": "all",
+      "md5": "1f183baa44e0b759c2917c34ac23d3b5"
+    },
+    {
+      "name": "gen_int5.ipl",
+      "size": 2988,
+      "path": "data/maps/interior/gen_int5.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/gen_int5.ipl",
+      "gpu": "all",
+      "md5": "0acd219bca22d7cb8c8b50d738c3275c"
+    },
+    {
+      "name": "gen_intb.ide",
+      "size": 5459,
+      "path": "data/maps/interior/gen_intb.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/gen_intb.ide",
+      "gpu": "all",
+      "md5": "48a554b28c8045c21b6ed0905a76768f"
+    },
+    {
+      "name": "gen_intb.ipl",
+      "size": 1626,
+      "path": "data/maps/interior/gen_intb.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/gen_intb.ipl",
+      "gpu": "all",
+      "md5": "663b75b0898db03687d5e6edb1d3b7f8"
+    },
+    {
+      "name": "int_cont.ide",
+      "size": 385,
+      "path": "data/maps/interior/int_cont.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/int_cont.ide",
+      "gpu": "all",
+      "md5": "f811cdbcfd62ad7c8bf4be61c2d89855"
+    },
+    {
+      "name": "int_cont.ipl",
+      "size": 910,
+      "path": "data/maps/interior/int_cont.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/int_cont.ipl",
+      "gpu": "all",
+      "md5": "5331b6ee9cbf7a976f98dc2cce6992e3"
+    },
+    {
+      "name": "int_LA.ide",
+      "size": 6004,
+      "path": "data/maps/interior/int_LA.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/int_LA.ide",
+      "gpu": "all",
+      "md5": "ee9a394ae0ce8cf6f77fb82c758d7c89"
+    },
+    {
+      "name": "int_LA.ipl",
+      "size": 1312,
+      "path": "data/maps/interior/int_LA.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/int_LA.ipl",
+      "gpu": "all",
+      "md5": "2ae3c352e5de6e290dc631da053c5cfc"
+    },
+    {
+      "name": "int_SF.ide",
+      "size": 1260,
+      "path": "data/maps/interior/int_SF.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/int_SF.ide",
+      "gpu": "all",
+      "md5": "cdfdb64d5254a0fc689604d000d0e29c"
+    },
+    {
+      "name": "int_SF.ipl",
+      "size": 1334,
+      "path": "data/maps/interior/int_SF.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/int_SF.ipl",
+      "gpu": "all",
+      "md5": "3e8cf0138f81f0c505f245e7bbff8b28"
+    },
+    {
+      "name": "int_veg.ide",
+      "size": 4684,
+      "path": "data/maps/interior/int_veg.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/int_veg.ide",
+      "gpu": "all",
+      "md5": "3ffe6a366fcadba1a2fb3fb8166ceb31"
+    },
+    {
+      "name": "int_veg.ipl",
+      "size": 5299,
+      "path": "data/maps/interior/int_veg.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/int_veg.ipl",
+      "gpu": "all",
+      "md5": "8d8030efa3a493324016a395fd180926"
+    },
+    {
+      "name": "propext.ide",
+      "size": 2340,
+      "path": "data/maps/interior/propext.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/propext.ide",
+      "gpu": "all",
+      "md5": "be0f534711073a19378cd30231b9d094"
+    },
+    {
+      "name": "props.ide",
+      "size": 26326,
+      "path": "data/maps/interior/props.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/props.ide",
+      "gpu": "all",
+      "md5": "b7ca66885d4fc34fe2f2083f8ed5d725"
+    },
+    {
+      "name": "props2.ide",
+      "size": 21174,
+      "path": "data/maps/interior/props2.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/props2.ide",
+      "gpu": "all",
+      "md5": "043a304b604db2e22d7464bcc36a41ce"
+    },
+    {
+      "name": "savehous.ide",
+      "size": 1724,
+      "path": "data/maps/interior/savehous.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/savehous.ide",
+      "gpu": "all",
+      "md5": "19af45eb13708b6b3ed9434a42e6a929"
+    },
+    {
+      "name": "savehous.ipl",
+      "size": 2959,
+      "path": "data/maps/interior/savehous.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/savehous.ipl",
+      "gpu": "all",
+      "md5": "2e79a68217244d7d99f3790b63fe3267"
+    },
+    {
+      "name": "stadint.ide",
+      "size": 2851,
+      "path": "data/maps/interior/stadint.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/stadint.ide",
+      "gpu": "all",
+      "md5": "10953f74890c554dd368ff20bdbeac3d"
+    },
+    {
+      "name": "stadint.ipl",
+      "size": 6299,
+      "path": "data/maps/interior/stadint.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/interior/stadint.ipl",
+      "gpu": "all",
+      "md5": "242ece3c9c070faf6751e66bfb17531c"
+    },
+    {
+      "name": "LAe.ide",
+      "size": 12249,
+      "path": "data/maps/LA/LAe.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAe.ide",
+      "gpu": "all",
+      "md5": "ff2d7279500ade53c53c4a8152e1f97c"
+    },
+    {
+      "name": "LAe.ipl",
+      "size": 27328,
+      "path": "data/maps/LA/LAe.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAe.ipl",
+      "gpu": "all",
+      "md5": "fa95160d9826c195e1b9d5128c20b35f"
+    },
+    {
+      "name": "LAe2.ide",
+      "size": 21907,
+      "path": "data/maps/LA/LAe2.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAe2.ide",
+      "gpu": "all",
+      "md5": "91d387b6ba5db4fd7b82bdb7c66a0283"
+    },
+    {
+      "name": "LAe2.ipl",
+      "size": 33651,
+      "path": "data/maps/LA/LAe2.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAe2.ipl",
+      "gpu": "all",
+      "md5": "ffa2c90e439f5bd7da317c1ad29a9495"
+    },
+    {
+      "name": "LAhills.ide",
+      "size": 10601,
+      "path": "data/maps/LA/LAhills.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAhills.ide",
+      "gpu": "all",
+      "md5": "4abb7ab44bd041381086527e72d02c9d"
+    },
+    {
+      "name": "LAhills.ipl",
+      "size": 34506,
+      "path": "data/maps/LA/LAhills.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAhills.ipl",
+      "gpu": "all",
+      "md5": "4c30d0186a0c65d5be31f5a45965003a"
+    },
+    {
+      "name": "LAn.ide",
+      "size": 11107,
+      "path": "data/maps/LA/LAn.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAn.ide",
+      "gpu": "all",
+      "md5": "fe60793907d824247bd76270962019bb"
+    },
+    {
+      "name": "LAn.ipl",
+      "size": 14264,
+      "path": "data/maps/LA/LAn.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAn.ipl",
+      "gpu": "all",
+      "md5": "3f3a9e01ca47388ed62e7bd10527572f"
+    },
+    {
+      "name": "LAn2.ide",
+      "size": 9565,
+      "path": "data/maps/LA/LAn2.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAn2.ide",
+      "gpu": "all",
+      "md5": "b11043b49c9c71095a9cad47d81418cf"
+    },
+    {
+      "name": "LAn2.ipl",
+      "size": 13185,
+      "path": "data/maps/LA/LAn2.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAn2.ipl",
+      "gpu": "all",
+      "md5": "dbcd933c5857dab676715b930f3eef1f"
+    },
+    {
+      "name": "LAs.ide",
+      "size": 12575,
+      "path": "data/maps/LA/LAs.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAs.ide",
+      "gpu": "all",
+      "md5": "858ec9178063c5054f2433189fd78ba1"
+    },
+    {
+      "name": "LAs.ipl",
+      "size": 22414,
+      "path": "data/maps/LA/LAs.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAs.ipl",
+      "gpu": "all",
+      "md5": "4540df6c3a170ab9b4ff3acce5a9674f"
+    },
+    {
+      "name": "LAs2.ide",
+      "size": 12364,
+      "path": "data/maps/LA/LAs2.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAs2.ide",
+      "gpu": "all",
+      "md5": "31f7cba12236f8a4660d13152712b8b0"
+    },
+    {
+      "name": "LAs2.ipl",
+      "size": 38441,
+      "path": "data/maps/LA/LAs2.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAs2.ipl",
+      "gpu": "all",
+      "md5": "cf63399c3f61e8a93e0e8dc7a09e766b"
+    },
+    {
+      "name": "LAw.ide",
+      "size": 9412,
+      "path": "data/maps/LA/LAw.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAw.ide",
+      "gpu": "all",
+      "md5": "7b46a9c0eb793d961018c5ebe5d35ddc"
+    },
+    {
+      "name": "LAw.ipl",
+      "size": 15105,
+      "path": "data/maps/LA/LAw.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAw.ipl",
+      "gpu": "all",
+      "md5": "1bfe3e1fabd610dc76ab0b44e26dacc6"
+    },
+    {
+      "name": "LAw2.ide",
+      "size": 11060,
+      "path": "data/maps/LA/LAw2.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAw2.ide",
+      "gpu": "all",
+      "md5": "78b4ea8a9f65983604e1659fdf2f7bef"
+    },
+    {
+      "name": "LAw2.ipl",
+      "size": 21957,
+      "path": "data/maps/LA/LAw2.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAw2.ipl",
+      "gpu": "all",
+      "md5": "be91915e7a5125b8f67b61accfe2c22b"
+    },
+    {
+      "name": "LaWn.ide",
+      "size": 13092,
+      "path": "data/maps/LA/LaWn.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LaWn.ide",
+      "gpu": "all",
+      "md5": "6c2a8885596f2d6f7f97d1ed37d6dde9"
+    },
+    {
+      "name": "LaWn.ipl",
+      "size": 24330,
+      "path": "data/maps/LA/LaWn.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LaWn.ipl",
+      "gpu": "all",
+      "md5": "0720120f5c025757ece1344df0d85a30"
+    },
+    {
+      "name": "LAxref.ide",
+      "size": 10477,
+      "path": "data/maps/LA/LAxref.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/LA/LAxref.ide",
+      "gpu": "all",
+      "md5": "142a27d9f570081e2378c45d1749d550"
+    },
+    {
+      "name": "leveldes.ide",
+      "size": 360,
+      "path": "data/maps/leveldes/leveldes.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/leveldes/leveldes.ide",
+      "gpu": "all",
+      "md5": "521496c7b8e148bf65e15a2eb9cffdba"
+    },
+    {
+      "name": "leveldes.ipl",
+      "size": 165,
+      "path": "data/maps/leveldes/leveldes.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/leveldes/leveldes.ipl",
+      "gpu": "all",
+      "md5": "4276ccba517ef022c45b39608699a8af"
+    },
+    {
+      "name": "levelmap.ide",
+      "size": 3194,
+      "path": "data/maps/leveldes/levelmap.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/leveldes/levelmap.ide",
+      "gpu": "all",
+      "md5": "15452bc974cc78c06a30e2c826bfce92"
+    },
+    {
+      "name": "levelmap.ipl",
+      "size": 4675,
+      "path": "data/maps/leveldes/levelmap.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/leveldes/levelmap.ipl",
+      "gpu": "all",
+      "md5": "4fb15ec9a9bd76e47842e01cdefa2585"
+    },
+    {
+      "name": "levelxre.ide",
+      "size": 9897,
+      "path": "data/maps/leveldes/levelxre.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/leveldes/levelxre.ide",
+      "gpu": "all",
+      "md5": "8f0e416b15122c6f4787900e873f1aa7"
+    },
+    {
+      "name": "seabed.ide",
+      "size": 12039,
+      "path": "data/maps/leveldes/seabed.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/leveldes/seabed.ide",
+      "gpu": "all",
+      "md5": "0779f538229decee62071e53f41d4b93"
+    },
+    {
+      "name": "seabed.ipl",
+      "size": 23342,
+      "path": "data/maps/leveldes/seabed.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/leveldes/seabed.ipl",
+      "gpu": "all",
+      "md5": "fbedb38d8860a71d63d30e4c0f458c86"
+    },
+    {
+      "name": "neonobj.ide",
+      "size": 346,
+      "path": "data/maps/Neon/neonobj.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/Neon/neonobj.ide",
+      "gpu": "all",
+      "md5": "dab3745b3431f557811509ed9cee32c1"
+    },
+    {
+      "name": "occlu.ipl",
+      "size": 1012,
+      "path": "data/maps/occlu.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/occlu.ipl",
+      "gpu": "all",
+      "md5": "fbe5264b558576cff738291bc17a9c51"
+    },
+    {
+      "name": "occluint.ipl",
+      "size": 2338,
+      "path": "data/maps/occluint.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/occluint.ipl",
+      "gpu": "all",
+      "md5": "e89a5ae5ee074086862664b50f6881f5"
+    },
+    {
+      "name": "occluLA.ipl",
+      "size": 35956,
+      "path": "data/maps/occluLA.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/occluLA.ipl",
+      "gpu": "all",
+      "md5": "a355e96c0102c3187fe75da90572b3f2"
+    },
+    {
+      "name": "occlusf.ipl",
+      "size": 16114,
+      "path": "data/maps/occlusf.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/occlusf.ipl",
+      "gpu": "all",
+      "md5": "9ac2fb7ddddfe7f71a4faad8f71a7b98"
+    },
+    {
+      "name": "occluveg.ipl",
+      "size": 17944,
+      "path": "data/maps/occluveg.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/occluveg.ipl",
+      "gpu": "all",
+      "md5": "394dc4170c928d4227f9c0e185d51261"
+    },
+    {
+      "name": "paths.ipl",
+      "size": 2658607,
+      "path": "data/maps/paths.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/paths.ipl",
+      "gpu": "all",
+      "md5": "37426c7d5218aa13aaec2f582aaaabc4"
+    },
+    {
+      "name": "paths2.ipl",
+      "size": 2292241,
+      "path": "data/maps/paths2.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/paths2.ipl",
+      "gpu": "all",
+      "md5": "b38219724ec5eaa1dba1df4331389509"
+    },
+    {
+      "name": "paths3.ipl",
+      "size": 2428066,
+      "path": "data/maps/paths3.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/paths3.ipl",
+      "gpu": "all",
+      "md5": "1f5f7a824575552057fe7001c54c51a9"
+    },
+    {
+      "name": "paths4.ipl",
+      "size": 253014,
+      "path": "data/maps/paths4.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/paths4.ipl",
+      "gpu": "all",
+      "md5": "73c948a8d373623524b4fca8a2b9c25a"
+    },
+    {
+      "name": "paths5.ipl",
+      "size": 457678,
+      "path": "data/maps/paths5.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/paths5.ipl",
+      "gpu": "all",
+      "md5": "8f3d100baff8ee2088d0b74474175250"
+    },
+    {
+      "name": "SFe.ide",
+      "size": 16224,
+      "path": "data/maps/SF/SFe.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/SF/SFe.ide",
+      "gpu": "all",
+      "md5": "081646af30c63910ddd84034c76c0170"
+    },
+    {
+      "name": "SFe.ipl",
+      "size": 26707,
+      "path": "data/maps/SF/SFe.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/SF/SFe.ipl",
+      "gpu": "all",
+      "md5": "da55b24ac305b2779f46cc1509f444d8"
+    },
+    {
+      "name": "SFn.ide",
+      "size": 11219,
+      "path": "data/maps/SF/SFn.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/SF/SFn.ide",
+      "gpu": "all",
+      "md5": "dcbca3ffea3a32a12e05c92e872b1a6d"
+    },
+    {
+      "name": "SFn.ipl",
+      "size": 26201,
+      "path": "data/maps/SF/SFn.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/SF/SFn.ipl",
+      "gpu": "all",
+      "md5": "a2133c436d46396b4e1511a33bcb8870"
+    },
+    {
+      "name": "SFs.ide",
+      "size": 18948,
+      "path": "data/maps/SF/SFs.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/SF/SFs.ide",
+      "gpu": "all",
+      "md5": "dc76fd0345fefbec63f7e838f6817bfe"
+    },
+    {
+      "name": "SFs.ipl",
+      "size": 37969,
+      "path": "data/maps/SF/SFs.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/SF/SFs.ipl",
+      "gpu": "all",
+      "md5": "518077ea0974332c8352eb9af931d197"
+    },
+    {
+      "name": "SFSe.ide",
+      "size": 30221,
+      "path": "data/maps/SF/SFSe.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/SF/SFSe.ide",
+      "gpu": "all",
+      "md5": "0910e0f2017e9ef61ca10829b84537c3"
+    },
+    {
+      "name": "SFSe.ipl",
+      "size": 53359,
+      "path": "data/maps/SF/SFSe.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/SF/SFSe.ipl",
+      "gpu": "all",
+      "md5": "b275b70372a6d91643e3f585325f8ddc"
+    },
+    {
+      "name": "SFw.ide",
+      "size": 16473,
+      "path": "data/maps/SF/SFw.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/SF/SFw.ide",
+      "gpu": "all",
+      "md5": "c24b68aa3c00d134b5243896b5d091c3"
+    },
+    {
+      "name": "SFw.ipl",
+      "size": 29247,
+      "path": "data/maps/SF/SFw.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/SF/SFw.ipl",
+      "gpu": "all",
+      "md5": "e435f3d83ef4abcc4ce56c41767601ee"
+    },
+    {
+      "name": "SFxref.ide",
+      "size": 4631,
+      "path": "data/maps/SF/SFxref.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/SF/SFxref.ide",
+      "gpu": "all",
+      "md5": "23b00cc73b9564f739730c61a232353d"
+    },
+    {
+      "name": "tunnels.ipl",
+      "size": 3230,
+      "path": "data/maps/tunnels.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/tunnels.ipl",
+      "gpu": "all",
+      "md5": "1438622c076f6122ff6cdd03241b638c"
+    },
+    {
+      "name": "vegasE.ide",
+      "size": 35542,
+      "path": "data/maps/vegas/vegasE.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/vegas/vegasE.ide",
+      "gpu": "all",
+      "md5": "80edadadef9a6e73f369701883538f1d"
+    },
+    {
+      "name": "vegasE.ipl",
+      "size": 61084,
+      "path": "data/maps/vegas/vegasE.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/vegas/vegasE.ipl",
+      "gpu": "all",
+      "md5": "ea279d9a9d6e3addb981b5186da91424"
+    },
+    {
+      "name": "VegasN.ide",
+      "size": 23715,
+      "path": "data/maps/vegas/VegasN.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/vegas/VegasN.ide",
+      "gpu": "all",
+      "md5": "ce6b2acfeffc987ff5736d095bc89680"
+    },
+    {
+      "name": "vegasN.ipl",
+      "size": 36651,
+      "path": "data/maps/vegas/vegasN.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/vegas/vegasN.ipl",
+      "gpu": "all",
+      "md5": "e6b6cc52ad19a5e93a45d659019f7b41"
+    },
+    {
+      "name": "VegasS.ide",
+      "size": 18656,
+      "path": "data/maps/vegas/VegasS.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/vegas/VegasS.ide",
+      "gpu": "all",
+      "md5": "f96405b5fa9463e4146a7d809401b36b"
+    },
+    {
+      "name": "vegasS.ipl",
+      "size": 30343,
+      "path": "data/maps/vegas/vegasS.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/vegas/vegasS.ipl",
+      "gpu": "all",
+      "md5": "ce4cb524d5bee74bab77029e5541b1ae"
+    },
+    {
+      "name": "VegasW.ide",
+      "size": 25456,
+      "path": "data/maps/vegas/VegasW.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/vegas/VegasW.ide",
+      "gpu": "all",
+      "md5": "4833416d5171265b46a1330ad9d5ae6e"
+    },
+    {
+      "name": "vegasW.ipl",
+      "size": 49867,
+      "path": "data/maps/vegas/vegasW.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/vegas/vegasW.ipl",
+      "gpu": "all",
+      "md5": "43989ba645119a9b287fb0e3782245e7"
+    },
+    {
+      "name": "vegaxref.ide",
+      "size": 5687,
+      "path": "data/maps/vegas/vegaxref.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/vegas/vegaxref.ide",
+      "gpu": "all",
+      "md5": "39bff6548531b9bdc16403d92a26cddc"
+    },
+    {
+      "name": "vegaxref.ipl",
+      "size": 3661,
+      "path": "data/maps/vegas/vegaxref.ipl",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/vegas/vegaxref.ipl",
+      "gpu": "all",
+      "md5": "789520fd41a60f0067c802c6f00d021b"
+    },
+    {
+      "name": "veh_mods.ide",
+      "size": 7323,
+      "path": "data/maps/veh_mods/veh_mods.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/maps/veh_mods/veh_mods.ide",
+      "gpu": "all",
+      "md5": "e5f05eea1d6fb145bfa0d5f9950ddd54"
+    },
+    {
+      "name": "melee.dat",
+      "size": 6306,
+      "path": "data/melee.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/melee.dat",
+      "gpu": "all",
+      "md5": "b2f05657980e4a693f8ff5eadcbad8f8"
+    },
+    {
+      "name": "object.dat",
+      "size": 126118,
+      "path": "data/object.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/object.dat",
+      "gpu": "all",
+      "md5": "46a5e7dff90078842e24d9de5e92cc3e"
+    },
+    {
+      "name": "carrec.img",
+      "size": 2357248,
+      "path": "data/paths/carrec.img",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/paths/carrec.img",
+      "gpu": "all",
+      "md5": "7f94ccaf1d647f581cce81a821dff2cb"
+    },
+    {
+      "name": "ROADBLOX.DAT",
+      "size": 1304,
+      "path": "data/paths/ROADBLOX.DAT",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/paths/ROADBLOX.DAT",
+      "gpu": "all",
+      "md5": "2dbd1fa4fc98e4cd0d84e647b3a12fa6"
+    },
+    {
+      "name": "tracks.dat",
+      "size": 25474,
+      "path": "data/paths/tracks.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/paths/tracks.dat",
+      "gpu": "all",
+      "md5": "16b7c65078f262893e18a5d626bbedbd"
+    },
+    {
+      "name": "tracks2.dat",
+      "size": 1892,
+      "path": "data/paths/tracks2.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/paths/tracks2.dat",
+      "gpu": "all",
+      "md5": "f5c1f87d1ae814a12a2aeb51e4ef27e0"
+    },
+    {
+      "name": "tracks3.dat",
+      "size": 8328,
+      "path": "data/paths/tracks3.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/paths/tracks3.dat",
+      "gpu": "all",
+      "md5": "fc3e3e450c92a0cdcdf6d5bf26dda212"
+    },
+    {
+      "name": "tracks4.dat",
+      "size": 18347,
+      "path": "data/paths/tracks4.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/paths/tracks4.dat",
+      "gpu": "all",
+      "md5": "10066144ef14c40fff4d5bd3cc147360"
+    },
+    {
+      "name": "ped.dat",
+      "size": 1276,
+      "path": "data/ped.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/ped.dat",
+      "gpu": "all",
+      "md5": "67d960dde13228d4818e0f144adafe4e"
+    },
+    {
+      "name": "pedgrp.dat",
+      "size": 5792,
+      "path": "data/pedgrp.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/pedgrp.dat",
+      "gpu": "all",
+      "md5": "fa1731066423ba0c584e757eda946f15"
+    },
+    {
+      "name": "peds.ide",
+      "size": 33401,
+      "path": "data/peds.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/peds.ide",
+      "gpu": "all",
+      "md5": "f7dea69fa6ab973479b9ef0cf05d3d98"
+    },
+    {
+      "name": "pedstats.dat",
+      "size": 3604,
+      "path": "data/pedstats.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/pedstats.dat",
+      "gpu": "all",
+      "md5": "d722c90c92f3ad5c1b531596769f61cd"
+    },
+    {
+      "name": "plants.dat",
+      "size": 9887,
+      "path": "data/plants.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/plants.dat",
+      "gpu": "all",
+      "md5": "a2713338dbbd55898a4195e4464c6b06"
+    },
+    {
+      "name": "popcycle.dat",
+      "size": 127108,
+      "path": "data/popcycle.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/popcycle.dat",
+      "gpu": "all",
+      "md5": "a43f90361d1034c819a602171d8d66cb"
+    },
+    {
+      "name": "procobj.dat",
+      "size": 9464,
+      "path": "data/procobj.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/procobj.dat",
+      "gpu": "all",
+      "md5": "bb1b65a8697a9c85f1773eb3c760f382"
+    },
+    {
+      "name": "mainV1.scm",
+      "size": 3169778,
+      "path": "data/script/mainV1.scm",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/script/mainV1.scm",
+      "gpu": "all",
+      "md5": "6f8801c5fb1949bf53b8f38bf6a4ab71"
+    },
+    {
+      "name": "scriptv1.img",
+      "size": 561152,
+      "path": "data/script/scriptv1.img",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/script/scriptv1.img",
+      "gpu": "all",
+      "md5": "fb7f9c3cf85683d9634c6c69ad0482f3"
+    },
+    {
+      "name": "shopping.dat",
+      "size": 46875,
+      "path": "data/shopping.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/shopping.dat",
+      "gpu": "all",
+      "md5": "c1086eb6c0bfa36845f2026b68519f14"
+    },
+    {
+      "name": "ShopUVs.dat",
+      "size": 30509,
+      "path": "data/ShopUVs.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/ShopUVs.dat",
+      "gpu": "all",
+      "md5": "f40d7ce24ae1ceabb6fcb06646de31d1"
+    },
+    {
+      "name": "statdisp.dat",
+      "size": 7292,
+      "path": "data/statdisp.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/statdisp.dat",
+      "gpu": "all",
+      "md5": "3a6cabab2094de3e0b3810a40e24194c"
+    },
+    {
+      "name": "surface.dat",
+      "size": 576,
+      "path": "data/surface.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/surface.dat",
+      "gpu": "all",
+      "md5": "9eb4e4e474abd5da2f3961a5ef549f9e"
+    },
+    {
+      "name": "surfaud.dat",
+      "size": 6530,
+      "path": "data/surfaud.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/surfaud.dat",
+      "gpu": "all",
+      "md5": "c32c586e8ba35742e356e6525619f7c3"
+    },
+    {
+      "name": "surfinfo.dat",
+      "size": 28102,
+      "path": "data/surfinfo.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/surfinfo.dat",
+      "gpu": "all",
+      "md5": "597155495adf4068e02c04b34612cefc"
+    },
+    {
+      "name": "timecyc.dat",
+      "size": 48081,
+      "path": "data/timecyc.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/timecyc.dat",
+      "gpu": "all",
+      "md5": "c59cb4961ae603a994ee101bf906c3ea"
+    },
+    {
+      "name": "TouchDefaultPhone3x2.cfg",
+      "size": 10912,
+      "path": "data/TouchDefaultPhone3x2.cfg",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/TouchDefaultPhone3x2.cfg",
+      "gpu": "all",
+      "md5": "b9de3eedeeceb8a95052f9935374cd33"
+    },
+    {
+      "name": "TouchDefaultPhoneWidescreen.cfg",
+      "size": 10924,
+      "path": "data/TouchDefaultPhoneWidescreen.cfg",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/TouchDefaultPhoneWidescreen.cfg",
+      "gpu": "all",
+      "md5": "681f05aa17c658a568752a765e058150"
+    },
+    {
+      "name": "TouchDefaultTablet4x3.cfg",
+      "size": 10926,
+      "path": "data/TouchDefaultTablet4x3.cfg",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/TouchDefaultTablet4x3.cfg",
+      "gpu": "all",
+      "md5": "37bdbe57243b101bfd2af3177a37ca9c"
+    },
+    {
+      "name": "TouchDefaultTabletWidescreen.cfg",
+      "size": 10923,
+      "path": "data/TouchDefaultTabletWidescreen.cfg",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/TouchDefaultTabletWidescreen.cfg",
+      "gpu": "all",
+      "md5": "f15920204887f42b505458c5bfd85fef"
+    },
+    {
+      "name": "txdcut.ide",
+      "size": 478,
+      "path": "data/txdcut.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/txdcut.ide",
+      "gpu": "all",
+      "md5": "e3c231039048a30680b8f13fb51cc4ac"
+    },
+    {
+      "name": "vehicles.ide",
+      "size": 21093,
+      "path": "data/vehicles.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/vehicles.ide",
+      "gpu": "all",
+      "md5": "bdc3a0fced2402c5bc61585714457d4b"
+    },
+    {
+      "name": "water.dat",
+      "size": 70099,
+      "path": "data/water.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/water.dat",
+      "gpu": "all",
+      "md5": "690400ecc92169d9eaddaaa948903efb"
+    },
+    {
+      "name": "water1.dat",
+      "size": 60063,
+      "path": "data/water1.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/water1.dat",
+      "gpu": "all",
+      "md5": "16fe5a3e8c57d02eb62a44a96d8b9d39"
+    },
+    {
+      "name": "weapon.dat",
+      "size": 11602,
+      "path": "data/weapon.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/data/weapon.dat",
+      "gpu": "all",
+      "md5": "28f518b60b7b77bbe6d7cbe3fad594c2"
+    },
+    {
+      "name": "arial.ttf",
+      "size": 367112,
+      "path": "fonts/arial.ttf",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/fonts/arial.ttf",
+      "gpu": "all",
+      "md5": "5995c725ca5a13be62d3dc75c2fc59fc"
+    },
+    {
+      "name": "arial_bold.ttf",
+      "size": 352224,
+      "path": "fonts/arial_bold.ttf",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/fonts/arial_bold.ttf",
+      "gpu": "all",
+      "md5": "ce4244a1fb311a47a5949948b2dc4eab"
+    },
+    {
+      "name": "arial_bold_thai.ttf",
+      "size": 91696,
+      "path": "fonts/arial_bold_thai.ttf",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/fonts/arial_bold_thai.ttf",
+      "gpu": "all",
+      "md5": "dee8aac390ade77d71c524fbdb979230"
+    },
+    {
+      "name": "georgia.ttf",
+      "size": 219712,
+      "path": "fonts/georgia.ttf",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/fonts/georgia.ttf",
+      "gpu": "all",
+      "md5": "ca8446d58eb8315c7a458caf81c6ed86"
+    },
+    {
+      "name": "gtaweap3.ttf",
+      "size": 104004,
+      "path": "fonts/gtaweap3.ttf",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/fonts/gtaweap3.ttf",
+      "gpu": "all",
+      "md5": "b2138ac7ea85efb902618b3be5392ac1"
+    },
+    {
+      "name": "impact.ttf",
+      "size": 206784,
+      "path": "fonts/impact.ttf",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/fonts/impact.ttf",
+      "gpu": "all",
+      "md5": "f12902024f7b77ee4c34557ee6f3818b"
+    },
+    {
+      "name": "palatino_linotype.ttf",
+      "size": 489884,
+      "path": "fonts/palatino_linotype.ttf",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/fonts/palatino_linotype.ttf",
+      "gpu": "all",
+      "md5": "96261bb90c9babbf8042ce7f43200d65"
+    },
+    {
+      "name": "quartz_ms.ttf",
+      "size": 51032,
+      "path": "fonts/quartz_ms.ttf",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/fonts/quartz_ms.ttf",
+      "gpu": "all",
+      "md5": "7df4d03e072bfaf9685f06ed5d179aff"
+    },
+    {
+      "name": "segoe_print.ttf",
+      "size": 172448,
+      "path": "fonts/segoe_print.ttf",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/fonts/segoe_print.ttf",
+      "gpu": "all",
+      "md5": "d7abfa52675c67654ecc2a8213bc58ae"
+    },
+    {
+      "name": "segoe_script.ttf",
+      "size": 620204,
+      "path": "fonts/segoe_script.ttf",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/fonts/segoe_script.ttf",
+      "gpu": "all",
+      "md5": "5c452fb7a0f5751f4e94e9d84eb01154"
+    },
+    {
+      "name": "tahoma.ttf",
+      "size": 939280,
+      "path": "fonts/tahoma.ttf",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/fonts/tahoma.ttf",
+      "gpu": "all",
+      "md5": "013ec165105a40eb43bc1130d530bd1f"
+    },
+    {
+      "name": "webdings.ttf",
+      "size": 120560,
+      "path": "fonts/webdings.ttf",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/fonts/webdings.ttf",
+      "gpu": "all",
+      "md5": "df1c5a5ce47c99504c1efe6f5421c7ba"
+    },
+    {
+      "name": "wingding.ttf",
+      "size": 82180,
+      "path": "fonts/wingding.ttf",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/fonts/wingding.ttf",
+      "gpu": "all",
+      "md5": "d9f147b4c366da5940876fd47992c4d2"
+    },
+    {
+      "name": "GTASAMP10.b",
+      "size": 195000,
+      "path": "GTASAMP10.b",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/GTASAMP10.b",
+      "gpu": "all",
+      "md5": "7f7ba98154e243a6a76b8291fe47f193"
+    },
+    {
+      "name": "loader.txt",
+      "size": 30,
+      "path": "loader.txt",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/loader.txt",
+      "gpu": "all",
+      "md5": "064c87b5e16831364787c9a510cd6356"
+    },
+    {
+      "name": "client.log",
+      "size": 756714,
+      "path": "logcat/client.log",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/logcat/client.log",
+      "gpu": "all",
+      "md5": "a6013fcb767f7e48b6d6e261b40de88a"
+    },
+    {
+      "name": "launcher.log",
+      "size": 3003,
+      "path": "logcat/launcher.log",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/logcat/launcher.log",
+      "gpu": "all",
+      "md5": "c4e53f7dd0c9596ba2a353c578cdccc6"
+    },
+    {
+      "name": "peds.col",
+      "size": 21477,
+      "path": "models/coll/peds.col",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/models/coll/peds.col",
+      "gpu": "all",
+      "md5": "74288cbdd843c3cfb77b036a5614ae9d"
+    },
+    {
+      "name": "vehicles.col",
+      "size": 1096,
+      "path": "models/coll/vehicles.col",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/models/coll/vehicles.col",
+      "gpu": "all",
+      "md5": "c84c1a1b67d5fad3df75dd8d45fc576b"
+    },
+    {
+      "name": "weapons.col",
+      "size": 560,
+      "path": "models/coll/weapons.col",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/models/coll/weapons.col",
+      "gpu": "all",
+      "md5": "510e74e32b323eee54dd7a243b073808"
+    },
+    {
+      "name": "effects.fxp",
+      "size": 616708,
+      "path": "models/effects.fxp",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/models/effects.fxp",
+      "gpu": "all",
+      "md5": "94babd9e6ec73bf5d9926e041e708c4f"
+    },
+    {
+      "name": "MINFO.BIN",
+      "size": 41100,
+      "path": "models/MINFO.BIN",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/models/MINFO.BIN",
+      "gpu": "all",
+      "md5": "7bff1a94308483d7eb587fc9793af485"
+    },
+    {
+      "name": "chat.log",
+      "size": 13803,
+      "path": "SAMP/chat.log",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/chat.log",
+      "gpu": "all",
+      "md5": "83dec4b4c58b51c29d75e38f499c1472"
+    },
+    {
+      "name": "colorcycle.dat",
+      "size": 15638,
+      "path": "SAMP/colorcycle.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/colorcycle.dat",
+      "gpu": "all",
+      "md5": "640257d99a14680e90ee9f59134ca257"
+    },
+    {
+      "name": "gta.dat",
+      "size": 3789,
+      "path": "SAMP/gta.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/gta.dat",
+      "gpu": "all",
+      "md5": "d8caaaa7f4fff9e5c2703d6690f43771"
+    },
+    {
+      "name": "handling.cfg",
+      "size": 64532,
+      "path": "SAMP/handling.cfg",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/handling.cfg",
+      "gpu": "all",
+      "md5": "6868accef933f1855ec28ce193a78159"
+    },
+    {
+      "name": "main.scm",
+      "size": 96997,
+      "path": "SAMP/main.scm",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/main.scm",
+      "gpu": "all",
+      "md5": "c9ef3143ddc27b883a537d24cd90f1d8"
+    },
+    {
+      "name": "peds.ide",
+      "size": 36369,
+      "path": "SAMP/peds.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/peds.ide",
+      "gpu": "all",
+      "md5": "28ebe8711e4f25f06b0c950b2ef15317"
+    },
+    {
+      "name": "SAMP.ide",
+      "size": 89349,
+      "path": "SAMP/SAMP.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/SAMP.ide",
+      "gpu": "all",
+      "md5": "5a36a5df8dfcab05900c38d75acaf594"
+    },
+    {
+      "name": "samp.log",
+      "size": 58465,
+      "path": "SAMP/samp.log",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/samp.log",
+      "gpu": "all",
+      "md5": "b1408cd9235eff70353744183dc423e1"
+    },
+    {
+      "name": "script.img",
+      "size": 184320,
+      "path": "SAMP/script.img",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/script.img",
+      "gpu": "all",
+      "md5": "89a033d7aa51fef232d99fc8edabf384"
+    },
+    {
+      "name": "server.ini",
+      "size": 131,
+      "path": "SAMP/server.ini",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/server.ini",
+      "gpu": "all",
+      "md5": "577f554cabf80e5bc5849fc2dd93ecae"
+    },
+    {
+      "name": "settings.ini",
+      "size": 180,
+      "path": "SAMP/settings.ini",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/settings.ini",
+      "gpu": "all",
+      "md5": "ed014369efaa0330e34583fa9b59da27"
+    },
+    {
+      "name": "settings.json",
+      "size": 863,
+      "path": "SAMP/settings.json",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/settings.json",
+      "gpu": "all",
+      "md5": "9d9d7ad4ae22c22615a7074444d63e30"
+    },
+    {
+      "name": "svlog.txt",
+      "size": 2263,
+      "path": "SAMP/svlog.txt",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/svlog.txt",
+      "gpu": "all",
+      "md5": "d68b35225499f8bb574e44c08a349d4b"
+    },
+    {
+      "name": "timecyc.dat",
+      "size": 56375,
+      "path": "SAMP/timecyc.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/timecyc.dat",
+      "gpu": "all",
+      "md5": "2a2c0c65e7e42d19cdec02ec2a999918"
+    },
+    {
+      "name": "tracks2.dat",
+      "size": 1,
+      "path": "SAMP/tracks2.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/tracks2.dat",
+      "gpu": "all",
+      "md5": "cfcd208495d565ef66e7dff9f98764da"
+    },
+    {
+      "name": "tracks4.dat",
+      "size": 1,
+      "path": "SAMP/tracks4.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/tracks4.dat",
+      "gpu": "all",
+      "md5": "cfcd208495d565ef66e7dff9f98764da"
+    },
+    {
+      "name": "vehicleAudioSettings.cfg",
+      "size": 56871,
+      "path": "SAMP/vehicleAudioSettings.cfg",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/vehicleAudioSettings.cfg",
+      "gpu": "all",
+      "md5": "f4068b623bff1966e6826478b37a461d"
+    },
+    {
+      "name": "vehicles.ide",
+      "size": 21093,
+      "path": "SAMP/vehicles.ide",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/vehicles.ide",
+      "gpu": "all",
+      "md5": "bdc3a0fced2402c5bc61585714457d4b"
+    },
+    {
+      "name": "voice.log",
+      "size": 795,
+      "path": "SAMP/voice.log",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/voice.log",
+      "gpu": "all",
+      "md5": "726abda515e05886cab33a8c170c8c5f"
+    },
+    {
+      "name": "WEAPON.dat",
+      "size": 11585,
+      "path": "SAMP/WEAPON.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/WEAPON.dat",
+      "gpu": "all",
+      "md5": "0a9bb49003680364f9f9768e9bcea982"
+    },
+    {
+      "name": "stream.ini",
+      "size": 197,
+      "path": "stream.ini",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/stream.ini",
+      "gpu": "all",
+      "md5": "05b6fdb1ff98a4ec75a58536a0c47b5e"
+    },
+    {
+      "name": "gta3.etc.dat",
+      "size": 324415290,
+      "path": "texdb/gta3/gta3.etc.dat",
+      "url": "https://github.com/zennoptionxct/datagta/releases/download/v1.0/gta3.etc.dat",
+      "gpu": "etc",
+      "md5": "7cfc51d6bcc4051fd909d7ff3d6ea004"
+    },
+    {
+      "name": "gta3.etc.tmb",
+      "size": 585724,
+      "path": "texdb/gta3/gta3.etc.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/gta3/gta3.etc.tmb",
+      "gpu": "etc",
+      "md5": "f538f6af6053237897607c84b11b7033"
+    },
+    {
+      "name": "gta3.etc.toc",
+      "size": 52168,
+      "path": "texdb/gta3/gta3.etc.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/gta3/gta3.etc.toc",
+      "gpu": "etc",
+      "md5": "a574dc83a62a86cab03c6123dc6b629a"
+    },
+    {
+      "name": "gta3.txt",
+      "size": 813288,
+      "path": "texdb/gta3/gta3.txt",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/gta3/gta3.txt",
+      "gpu": "all",
+      "md5": "3dbf88d15e7be66784183e7c2a6557d0"
+    },
+    {
+      "name": "gta3.unc.tmb",
+      "size": 1609948,
+      "path": "texdb/gta3/gta3.unc.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/gta3/gta3.unc.tmb",
+      "gpu": "all",
+      "md5": "e1558cd8fda0ca8d0fe1b7ea9a75dc07"
+    },
+    {
+      "name": "gta3.img",
+      "size": 388759552,
+      "path": "texdb/gta3.img",
+      "url": "https://github.com/zennoptionxct/datagta/releases/download/v1.0/gta3.img",
+      "gpu": "all",
+      "md5": "a412950aaff82591de5a76911aabf130"
+    },
+    {
+      "name": "gta_int.etc.dat",
+      "size": 21742444,
+      "path": "texdb/gta_int/gta_int.etc.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/gta_int/gta_int.etc.dat",
+      "gpu": "etc",
+      "md5": "786ead0876e76fc4c5e936637e4b4326"
+    },
+    {
+      "name": "gta_int.etc.tmb",
+      "size": 663408,
+      "path": "texdb/gta_int/gta_int.etc.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/gta_int/gta_int.etc.tmb",
+      "gpu": "etc",
+      "md5": "311ee7ed5712ca45fde9943e891b5c2d"
+    },
+    {
+      "name": "gta_int.etc.toc",
+      "size": 10132,
+      "path": "texdb/gta_int/gta_int.etc.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/gta_int/gta_int.etc.toc",
+      "gpu": "etc",
+      "md5": "f658028e3e42bb8e78a3e9fb2c6eb045"
+    },
+    {
+      "name": "gta_int.txt",
+      "size": 174099,
+      "path": "texdb/gta_int/gta_int.txt",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/gta_int/gta_int.txt",
+      "gpu": "all",
+      "md5": "5c8a8240b8e40e81377b3ff91a4f6796"
+    },
+    {
+      "name": "gta_int.unc.tmb",
+      "size": 663408,
+      "path": "texdb/gta_int/gta_int.unc.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/gta_int/gta_int.unc.tmb",
+      "gpu": "all",
+      "md5": "311ee7ed5712ca45fde9943e891b5c2d"
+    },
+    {
+      "name": "gta_int.img",
+      "size": 44836864,
+      "path": "texdb/gta_int.img",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/gta_int.img",
+      "gpu": "all",
+      "md5": "d81cd4cb77a6a021b6696bf9043bad60"
+    },
+    {
+      "name": "menu.dxt.dat",
+      "size": 7799478,
+      "path": "texdb/menu/menu.dxt.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/menu/menu.dxt.dat",
+      "gpu": "dxt",
+      "md5": "3d7f85a73b951cccecc2e7c41e9d82e2"
+    },
+    {
+      "name": "menu.dxt.tmb",
+      "size": 860,
+      "path": "texdb/menu/menu.dxt.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/menu/menu.dxt.tmb",
+      "gpu": "dxt",
+      "md5": "84f83c8a061264840fb5b1545d966c2b"
+    },
+    {
+      "name": "menu.dxt.toc",
+      "size": 176,
+      "path": "texdb/menu/menu.dxt.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/menu/menu.dxt.toc",
+      "gpu": "dxt",
+      "md5": "d9901f2f2746f04c13ba27e8900e86a9"
+    },
+    {
+      "name": "menu.etc.dat",
+      "size": 10822324,
+      "path": "texdb/menu/menu.etc.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/menu/menu.etc.dat",
+      "gpu": "etc",
+      "md5": "30aa5729649d437766a245e48a8428c8"
+    },
+    {
+      "name": "menu.etc.tmb",
+      "size": 860,
+      "path": "texdb/menu/menu.etc.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/menu/menu.etc.tmb",
+      "gpu": "etc",
+      "md5": "84f83c8a061264840fb5b1545d966c2b"
+    },
+    {
+      "name": "menu.etc.toc",
+      "size": 176,
+      "path": "texdb/menu/menu.etc.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/menu/menu.etc.toc",
+      "gpu": "etc",
+      "md5": "28a864dbb1cc5424b15ef1212d20eab5"
+    },
+    {
+      "name": "menu.pvr.dat",
+      "size": 20214954,
+      "path": "texdb/menu/menu.pvr.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/menu/menu.pvr.dat",
+      "gpu": "pvr",
+      "md5": "ef971daf6cc4c0b9d0bb6357350c0ffe"
+    },
+    {
+      "name": "menu.pvr.tmb",
+      "size": 8816,
+      "path": "texdb/menu/menu.pvr.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/menu/menu.pvr.tmb",
+      "gpu": "pvr",
+      "md5": "16285d0b1699d18742e756f40b6e3a1e"
+    },
+    {
+      "name": "menu.pvr.toc",
+      "size": 176,
+      "path": "texdb/menu/menu.pvr.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/menu/menu.pvr.toc",
+      "gpu": "pvr",
+      "md5": "0214ca9687270ebfb9f4e5702386f925"
+    },
+    {
+      "name": "menu.txt",
+      "size": 2858,
+      "path": "texdb/menu/menu.txt",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/menu/menu.txt",
+      "gpu": "all",
+      "md5": "24ff61d094a81c9cafd338fa51ab8382"
+    },
+    {
+      "name": "menu.unc.tmb",
+      "size": 11696,
+      "path": "texdb/menu/menu.unc.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/menu/menu.unc.tmb",
+      "gpu": "all",
+      "md5": "7954402e80424cdf1b1b6068b8769bc3"
+    },
+    {
+      "name": "mobile.dxt.dat",
+      "size": 7267946,
+      "path": "texdb/mobile/mobile.dxt.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/mobile/mobile.dxt.dat",
+      "gpu": "dxt",
+      "md5": "dc035b96bbf5e3cc89a5fcbed75150ee"
+    },
+    {
+      "name": "mobile.dxt.tmb",
+      "size": 3940,
+      "path": "texdb/mobile/mobile.dxt.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/mobile/mobile.dxt.tmb",
+      "gpu": "dxt",
+      "md5": "efcc677bfb33570deac2858c896594c6"
+    },
+    {
+      "name": "mobile.dxt.toc",
+      "size": 792,
+      "path": "texdb/mobile/mobile.dxt.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/mobile/mobile.dxt.toc",
+      "gpu": "dxt",
+      "md5": "69b1bae3daef2ff057cc0dcce1594885"
+    },
+    {
+      "name": "mobile.etc.dat",
+      "size": 7837506,
+      "path": "texdb/mobile/mobile.etc.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/mobile/mobile.etc.dat",
+      "gpu": "etc",
+      "md5": "088aae28b2ebce4316f92181b84dbbd7"
+    },
+    {
+      "name": "mobile.etc.tmb",
+      "size": 6880,
+      "path": "texdb/mobile/mobile.etc.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/mobile/mobile.etc.tmb",
+      "gpu": "etc",
+      "md5": "11aaf6d8b51ef7c9ac017cb8c7be16c1"
+    },
+    {
+      "name": "mobile.etc.toc",
+      "size": 804,
+      "path": "texdb/mobile/mobile.etc.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/mobile/mobile.etc.toc",
+      "gpu": "etc",
+      "md5": "456e4b072d6e0fe09dcf7135132d6719"
+    },
+    {
+      "name": "mobile.pvr.dat",
+      "size": 8712314,
+      "path": "texdb/mobile/mobile.pvr.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/mobile/mobile.pvr.dat",
+      "gpu": "pvr",
+      "md5": "4fb465d4eb5461520761b227840692d3"
+    },
+    {
+      "name": "mobile.pvr.tmb",
+      "size": 3940,
+      "path": "texdb/mobile/mobile.pvr.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/mobile/mobile.pvr.tmb",
+      "gpu": "pvr",
+      "md5": "efcc677bfb33570deac2858c896594c6"
+    },
+    {
+      "name": "mobile.pvr.toc",
+      "size": 792,
+      "path": "texdb/mobile/mobile.pvr.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/mobile/mobile.pvr.toc",
+      "gpu": "pvr",
+      "md5": "6e6f1e67984e72ed11c3d18efb897268"
+    },
+    {
+      "name": "mobile.txt",
+      "size": 14100,
+      "path": "texdb/mobile/mobile.txt",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/mobile/mobile.txt",
+      "gpu": "all",
+      "md5": "bd895095c6192f39e0e930967baca4d0"
+    },
+    {
+      "name": "mobile.unc.tmb",
+      "size": 16096,
+      "path": "texdb/mobile/mobile.unc.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/mobile/mobile.unc.tmb",
+      "gpu": "all",
+      "md5": "d03eb7c1c4d91fbcea6fff07ae0af404"
+    },
+    {
+      "name": "player.etc.dat",
+      "size": 6569414,
+      "path": "texdb/player/player.etc.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/player/player.etc.dat",
+      "gpu": "etc",
+      "md5": "a1d04da0effd7228b88b2cc2a44af38c"
+    },
+    {
+      "name": "player.etc.tmb",
+      "size": 6940,
+      "path": "texdb/player/player.etc.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/player/player.etc.tmb",
+      "gpu": "etc",
+      "md5": "05c457dd35da898f875659a3db8f52d6"
+    },
+    {
+      "name": "player.etc.toc",
+      "size": 1580,
+      "path": "texdb/player/player.etc.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/player/player.etc.toc",
+      "gpu": "etc",
+      "md5": "ff93c115e12f79407b69fd422a40908f"
+    },
+    {
+      "name": "player.pvr.dat",
+      "size": 6569414,
+      "path": "texdb/player/player.pvr.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/player/player.pvr.dat",
+      "gpu": "pvr",
+      "md5": "a1d04da0effd7228b88b2cc2a44af38c"
+    },
+    {
+      "name": "player.pvr.tmb",
+      "size": 6940,
+      "path": "texdb/player/player.pvr.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/player/player.pvr.tmb",
+      "gpu": "pvr",
+      "md5": "05c457dd35da898f875659a3db8f52d6"
+    },
+    {
+      "name": "player.pvr.toc",
+      "size": 1580,
+      "path": "texdb/player/player.pvr.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/player/player.pvr.toc",
+      "gpu": "pvr",
+      "md5": "ff93c115e12f79407b69fd422a40908f"
+    },
+    {
+      "name": "player.txt",
+      "size": 27810,
+      "path": "texdb/player/player.txt",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/player/player.txt",
+      "gpu": "all",
+      "md5": "53712a52f9a98a3224207a9b67788b83"
+    },
+    {
+      "name": "player.img",
+      "size": 16412672,
+      "path": "texdb/player.img",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/player.img",
+      "gpu": "all",
+      "md5": "3eeff76e39c62d2874abbe8656dbd457"
+    },
+    {
+      "name": "playerhi.etc.dat",
+      "size": 27658902,
+      "path": "texdb/playerhi/playerhi.etc.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/playerhi/playerhi.etc.dat",
+      "gpu": "etc",
+      "md5": "0dc839aa289317ea221f8fb8f896f46c"
+    },
+    {
+      "name": "playerhi.etc.tmb",
+      "size": 6940,
+      "path": "texdb/playerhi/playerhi.etc.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/playerhi/playerhi.etc.tmb",
+      "gpu": "etc",
+      "md5": "4cd33e8a5ca03a6ea5ecc348ebaa52f3"
+    },
+    {
+      "name": "playerhi.etc.toc",
+      "size": 1580,
+      "path": "texdb/playerhi/playerhi.etc.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/playerhi/playerhi.etc.toc",
+      "gpu": "etc",
+      "md5": "36e2114e4d8001e615527313513b4341"
+    },
+    {
+      "name": "playerhi.pvr.dat",
+      "size": 27658902,
+      "path": "texdb/playerhi/playerhi.pvr.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/playerhi/playerhi.pvr.dat",
+      "gpu": "pvr",
+      "md5": "0dc839aa289317ea221f8fb8f896f46c"
+    },
+    {
+      "name": "playerhi.pvr.tmb",
+      "size": 6940,
+      "path": "texdb/playerhi/playerhi.pvr.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/playerhi/playerhi.pvr.tmb",
+      "gpu": "pvr",
+      "md5": "4cd33e8a5ca03a6ea5ecc348ebaa52f3"
+    },
+    {
+      "name": "playerhi.pvr.toc",
+      "size": 1580,
+      "path": "texdb/playerhi/playerhi.pvr.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/playerhi/playerhi.pvr.toc",
+      "gpu": "pvr",
+      "md5": "36e2114e4d8001e615527313513b4341"
+    },
+    {
+      "name": "playerhi.txt",
+      "size": 28087,
+      "path": "texdb/playerhi/playerhi.txt",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/playerhi/playerhi.txt",
+      "gpu": "all",
+      "md5": "a0ca027e517b7352eba72c420b5357b4"
+    },
+    {
+      "name": "samp.dxt.dat",
+      "size": 22341548,
+      "path": "texdb/samp/samp.dxt.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.dxt.dat",
+      "gpu": "dxt",
+      "md5": "ce8b09507407dbe49e0f385d114cfa99"
+    },
+    {
+      "name": "samp.dxt.tmb",
+      "size": 21568,
+      "path": "texdb/samp/samp.dxt.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.dxt.tmb",
+      "gpu": "dxt",
+      "md5": "ef13e039efac23a47794e420d2380c24"
+    },
+    {
+      "name": "samp.dxt.toc",
+      "size": 6176,
+      "path": "texdb/samp/samp.dxt.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.dxt.toc",
+      "gpu": "dxt",
+      "md5": "c3751af6456b22beecd63dab8fdb2479"
+    },
+    {
+      "name": "samp.etc.dat",
+      "size": 33476356,
+      "path": "texdb/samp/samp.etc.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.etc.dat",
+      "gpu": "etc",
+      "md5": "f7153ee8bf704176277fd00395fbefb4"
+    },
+    {
+      "name": "samp.etc.tmb",
+      "size": 21568,
+      "path": "texdb/samp/samp.etc.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.etc.tmb",
+      "gpu": "etc",
+      "md5": "ef13e039efac23a47794e420d2380c24"
+    },
+    {
+      "name": "samp.etc.toc",
+      "size": 6176,
+      "path": "texdb/samp/samp.etc.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.etc.toc",
+      "gpu": "etc",
+      "md5": "9aa3943752c707e334d2bddbb9e039fc"
+    },
+    {
+      "name": "samp.pvr.dat",
+      "size": 14090948,
+      "path": "texdb/samp/samp.pvr.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.pvr.dat",
+      "gpu": "pvr",
+      "md5": "bed8c4b2a0701d1f0e106dabe18625ec"
+    },
+    {
+      "name": "samp.pvr.tmb",
+      "size": 21568,
+      "path": "texdb/samp/samp.pvr.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.pvr.tmb",
+      "gpu": "pvr",
+      "md5": "ef13e039efac23a47794e420d2380c24"
+    },
+    {
+      "name": "samp.pvr.toc",
+      "size": 6176,
+      "path": "texdb/samp/samp.pvr.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.pvr.toc",
+      "gpu": "pvr",
+      "md5": "dedd0e0a4f65cc61154c18a7998ccd20"
+    },
+    {
+      "name": "samp.txt",
+      "size": 89592,
+      "path": "texdb/samp/samp.txt",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.txt",
+      "gpu": "all",
+      "md5": "3164828ba09ac23255bc99381010cde4"
+    },
+    {
+      "name": "samp.unc.dat",
+      "size": 33150952,
+      "path": "texdb/samp/samp.unc.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.unc.dat",
+      "gpu": "all",
+      "md5": "545f272663b036d106711e3bc848624e"
+    },
+    {
+      "name": "samp.unc.tmb",
+      "size": 22528,
+      "path": "texdb/samp/samp.unc.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.unc.tmb",
+      "gpu": "all",
+      "md5": "fe33e34f58d94a0eec826aec432a5988"
+    },
+    {
+      "name": "samp.unc.toc",
+      "size": 6156,
+      "path": "texdb/samp/samp.unc.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp/samp.unc.toc",
+      "gpu": "all",
+      "md5": "dc1f54239b2ca11d17469a75cfd6cd28"
+    },
+    {
+      "name": "samp.img",
+      "size": 36902912,
+      "path": "texdb/samp.img",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/samp.img",
+      "gpu": "all",
+      "md5": "6fb0e8cbd413efa346be87c53171ebec"
+    },
+    {
+      "name": "SAMPCOL.img",
+      "size": 4253696,
+      "path": "texdb/SAMPCOL.img",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/SAMPCOL.img",
+      "gpu": "all",
+      "md5": "1830ffedfc451c75aef2dea949d02cb5"
+    },
+    {
+      "name": "txd.etc.dat",
+      "size": 14217222,
+      "path": "texdb/txd/txd.etc.dat",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/txd/txd.etc.dat",
+      "gpu": "etc",
+      "md5": "18b77e3498e2d63f603de05da467f6f9"
+    },
+    {
+      "name": "txd.etc.tmb",
+      "size": 56380,
+      "path": "texdb/txd/txd.etc.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/txd/txd.etc.tmb",
+      "gpu": "etc",
+      "md5": "84d0fd0dd284fa9dca419795f510b35a"
+    },
+    {
+      "name": "txd.etc.toc",
+      "size": 2592,
+      "path": "texdb/txd/txd.etc.toc",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/txd/txd.etc.toc",
+      "gpu": "etc",
+      "md5": "f4f73f2a7860a60abd51ec75783b5ad2"
+    },
+    {
+      "name": "txd.txt",
+      "size": 46057,
+      "path": "texdb/txd/txd.txt",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/txd/txd.txt",
+      "gpu": "all",
+      "md5": "d306379c77f72c2842245f76ddb6f261"
+    },
+    {
+      "name": "txd.unc.tmb",
+      "size": 76892,
+      "path": "texdb/txd/txd.unc.tmb",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/txd/txd.unc.tmb",
+      "gpu": "all",
+      "md5": "c411930f5c3ffd11407c38092a3a4b22"
+    },
+    {
+      "name": "vehicleAudioSettings.cfg",
+      "size": 56871,
+      "path": "vehicleAudioSettings.cfg",
+      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/vehicleAudioSettings.cfg",
+      "gpu": "all",
+      "md5": "f4068b623bff1966e6826478b37a461d"
+    }
+  ]
+}

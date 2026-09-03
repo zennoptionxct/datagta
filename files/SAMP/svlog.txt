@@ -1,0 +1,38 @@
+[dbg:render:init] : module initializing...
+[dbg:render:init] : module initialized
+[dbg:samp:init] : module initializing...
+[dbg:samp:init] : module initialized
+[sv:dbg:network:init] : module initializing...
+[sv:dbg:network:init] : module initialized
+[sv:dbg:playback:init] : module initializing...
+[sv:dbg:playback:init] : module initialized
+[sv:dbg:playback:bassinithook] : module loading...
+[sv:dbg:playback:bassinithook] : calling function BASS_Init(device:-1, freq:48000, flags:0x6)...
+[sv:err:playback:bassinithook] : failed to init bass library (code:14)
+[sv:dbg:playback:bassinithook] : module loaded
+Plugin::OnDeviceInit()
+[dbg:samp:load] : module loading...
+[dbg:samp:load] : module loaded
+[dbg:raknet:client:connect] : connecting to game server '204.10.193.34:7785...'
+[dbg:raknet:client:connect] : connected
+[sv:dbg:network:rpc] : rpc received.
+[sv:dbg:network:connect] : raknet connecting... (version:11;micro:1)
+[sv:dbg:network:receive] : packet received.
+[sv:dbg:network:serverInfo] : connecting to voiceserver '204.10.193.34:14048'...
+[sv:dbg:plugin:addkey] : keyid(0x42)
+[dbg:keyfilter] : adding key (0x42)
+[sv:dbg:network:pluginInit] : plugin init packet (bitrate:24000;mute:0)
+[sv:dbg:record:init] : module initializing...
+[sv:dbg:record:init] : device detect [ id(0) enabled(1) loopback(0) name(Default) type(0x0) ]
+[sv:dbg:record:init] : device detect [ id(1) enabled(1) loopback(0) name(Camcorder) type(0x0) ]
+[sv:dbg:record:init] : module initialized
+[sv:dbg:plugin:createlstreamatplayer] : stream(0x8439f58), dist(25.70), player(1), color(0xff0000ff), name()
+[sv:dbg:plugin:createlstreamatplayer] : stream(0xa3fc4b8), dist(25.70), player(3), color(0xff0000ff), name()
+[sv:dbg:plugin:deletestream] : stream(0x8439f58)
+[sv:dbg:plugin:deletestream] : stream(0xa3fc4b8)
+[sv:dbg:plugin:createlstreamatplayer] : stream(0x8439f58), dist(25.70), player(1), color(0xff0000ff), name()
+[sv:dbg:plugin:createlstreamatplayer] : stream(0xa3fc4b8), dist(25.70), player(3), color(0xff0000ff), name()
+[sv:dbg:plugin:deletestream] : stream(0xa3fc4b8)
+[sv:dbg:plugin:deletestream] : stream(0x8439f58)
+[sv:dbg:plugin:createlstreamatplayer] : stream(0xa3fc4b8), dist(25.70), player(3), color(0xff0000ff), name()
+[sv:dbg:plugin:deletestream] : stream(0xa3fc4b8)

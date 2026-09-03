@@ -1,0 +1,6 @@
+# Large files hosted in GitHub Releases
+files/texdb/gta3.img
+files/texdb/gta3/*.dat
+*.log
+.DS_Store
+Thumbs.db

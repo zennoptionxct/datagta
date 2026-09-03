@@ -1,0 +1,44 @@
+cat=0 name=Default onfoot=5 slow=5 fast=5 defaultformat=4 defaultstream=1
+"menu_mainaudio" width=64 height=64 img=2e598ea0 alphamode=2
+"menu_mainbriefs" width=64 height=64 img=97f718a5 alphamode=2
+"menu_maincontrols" width=64 height=64 img=53a69929 alphamode=2
+"menu_maindelete" width=64 height=64 img=8f89b8bf alphamode=2
+"menu_maindisplay" width=64 height=64 img=7073bfda alphamode=2
+"menu_mainhelp" width=64 height=64 img=b2b2dc4b alphamode=2
+"menu_mainlanguage" width=64 height=64 img=4e3f90b alphamode=2
+"menu_mainplay" width=64 height=64 img=c9880a07 alphamode=2
+"menu_mainpresents" width=256 height=32 img=fcd0eccf alphamode=2
+"menu_mainquit" width=64 height=64 img=1bd1516f alphamode=2
+"menu_mainresume" width=64 height=64 img=c06e5a4a alphamode=2
+"menu_mainsave" width=64 height=64 img=12388299 alphamode=2
+"menu_mainsettings" width=64 height=64 img=5ae6761e alphamode=2
+"menu_mainstats" width=64 height=64 img=cbd7aec1 alphamode=2
+"menu_selector" width=32 height=64 img=6a5c275 alphamode=2
+"menu_sliderempty" width=128 height=32 img=734ae418 alphamode=2
+"menu_sliderfull" width=128 height=32 img=c5d58137 alphamode=2
+"menu_slidernub" width=32 height=32 img=3b5b3715 alphamode=2
+"menu_smalllogo" width=256 height=256 img=ee9384a1 alphamode=2
+"menu_adjback" width=512 height=256 img=95399462
+"menu_adjback2" width=512 height=256 img=33a7b8bc
+"menu_bgmap" width=256 height=256 img=da8f800 alphamode=2
+"menu_char0" width=320 height=720 img=b1d813a1 mipmode=0 alphamode=2
+"menu_char1" width=320 height=720 img=689d6df6 mipmode=0 alphamode=2
+"menu_char2" width=320 height=720 img=4d5b58ae mipmode=0 alphamode=2
+"menu_char3" width=320 height=720 img=2071560d mipmode=0 alphamode=2
+"menu_char4" width=320 height=720 img=b080ccba mipmode=0 alphamode=2
+"menu_char5" width=320 height=720 img=a6a1b46 mipmode=0 alphamode=2
+"menu_char6" width=320 height=720 img=6c90b175 mipmode=0 alphamode=2
+"menu_char7" width=320 height=720 img=2b1cb7c6 mipmode=0 alphamode=2
+"menu_char8" width=320 height=720 img=c1fa3f mipmode=0 alphamode=2
+"menu_main1" width=1024 height=576 img=68f0c4b3 mipmode=0 alphamode=2
+"menu_main2" width=1024 height=576 img=c9c8b60a mipmode=0 alphamode=2
+"menu_main3" width=1024 height=576 img=fce7b8b5 mipmode=0 alphamode=2
+"menu_main4" width=1024 height=576 img=fa989bcf mipmode=0 alphamode=2
+"menu_mainmask" width=512 height=512 img=36a3e000 alphamode=2
+"mobilesc0" width=2048 height=1536 img=17f6a6fd mipmode=0 alphamode=2
+"mobilesc1" width=2048 height=1536 img=53a84fc7 mipmode=0 alphamode=2
+"mobilesc2" width=2048 height=1536 img=9fc1482b mipmode=0 alphamode=2
+"mobilesc3" width=2048 height=1536 img=dee97dd6 mipmode=0 alphamode=2
+"mobilesc4" width=2048 height=1536 img=66d8ce8d mipmode=0 alphamode=2
+"mobilesc5" width=2048 height=1536 img=e94ea608 mipmode=0 alphamode=2
+"mobilesc6" width=2048 height=1536 img=c028c18c mipmode=0 alphamode=2

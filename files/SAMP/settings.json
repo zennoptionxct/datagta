@@ -1,0 +1,32 @@
+{
+    "client": {
+        "server": {
+            "host": "204.10.193.34",
+            "port": 7785,
+            "password": ""
+        },
+        "settings": {
+            "nick_name": "Upinganteng",
+            "samp_version": 0,
+            "new_interface": false,
+            "system_keyboard": true,
+            "timestamp": true,
+            "fullscreen": true,
+            "fast_connect": false,
+            "voice_chat": true,
+            "display_fps": true,
+            "cleo_scripts": true,
+            "aml_scripts": false,
+            "monet_scripts": true,
+            "modloader": true,
+            "modify_files": true,
+            "fps_limit": 60,
+            "chat_strings": 5,
+            "font_size": 28,
+            "chat_posx": 100,
+            "chat_posy": 10,
+            "chat_sizex": 400,
+            "chat_sizey": 150
+        }
+    }
+}
