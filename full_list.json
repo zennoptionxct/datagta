@@ -2285,7 +2285,7 @@
       "size": 20214954,
       "path": "texdb/menu/menu.pvr.dat",
       "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/menu/menu.pvr.dat",
-      "gpu": "pvr",
+      "gpu": "all",
       "md5": "ef971daf6cc4c0b9d0bb6357350c0ffe"
     },
     {
@@ -2293,7 +2293,7 @@
       "size": 8816,
       "path": "texdb/menu/menu.pvr.tmb",
       "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/menu/menu.pvr.tmb",
-      "gpu": "pvr",
+      "gpu": "all",
       "md5": "16285d0b1699d18742e756f40b6e3a1e"
     },
     {
@@ -2301,7 +2301,7 @@
       "size": 176,
       "path": "texdb/menu/menu.pvr.toc",
       "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/menu/menu.pvr.toc",
-      "gpu": "pvr",
+      "gpu": "all",
       "md5": "0214ca9687270ebfb9f4e5702386f925"
     },
     {
@@ -2437,7 +2437,7 @@
       "size": 6569414,
       "path": "texdb/player/player.pvr.dat",
       "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/player/player.pvr.dat",
-      "gpu": "pvr",
+      "gpu": "all",
       "md5": "a1d04da0effd7228b88b2cc2a44af38c"
     },
     {
@@ -2445,7 +2445,7 @@
       "size": 6940,
       "path": "texdb/player/player.pvr.tmb",
       "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/player/player.pvr.tmb",
-      "gpu": "pvr",
+      "gpu": "all",
       "md5": "05c457dd35da898f875659a3db8f52d6"
     },
     {
@@ -2453,7 +2453,7 @@
       "size": 1580,
       "path": "texdb/player/player.pvr.toc",
       "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/player/player.pvr.toc",
-      "gpu": "pvr",
+      "gpu": "all",
       "md5": "ff93c115e12f79407b69fd422a40908f"
     },
     {
@@ -2501,7 +2501,7 @@
       "size": 27658902,
       "path": "texdb/playerhi/playerhi.pvr.dat",
       "url": "https://github.com/zennoptionxct/datagta/releases/download/v1.0/playerhi.pvr.dat",
-      "gpu": "pvr",
+      "gpu": "all",
       "md5": "0dc839aa289317ea221f8fb8f896f46c"
     },
     {
@@ -2509,7 +2509,7 @@
       "size": 6940,
       "path": "texdb/playerhi/playerhi.pvr.tmb",
       "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/playerhi/playerhi.pvr.tmb",
-      "gpu": "pvr",
+      "gpu": "all",
       "md5": "4cd33e8a5ca03a6ea5ecc348ebaa52f3"
     },
     {
@@ -2517,7 +2517,7 @@
       "size": 1580,
       "path": "texdb/playerhi/playerhi.pvr.toc",
       "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/texdb/playerhi/playerhi.pvr.toc",
-      "gpu": "pvr",
+      "gpu": "all",
       "md5": "36e2114e4d8001e615527313513b4341"
     },
     {
