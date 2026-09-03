@@ -74,11 +74,11 @@
     },
     {
       "name": "server.ini",
-      "size": 131,
+      "size": 128,
       "path": "SAMP/server.ini",
       "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/server.ini",
       "gpu": "all",
-      "md5": "577f554cabf80e5bc5849fc2dd93ecae"
+      "md5": "7317f263405e880a18fb73fa91b713ca"
     },
     {
       "name": "settings.ini",
@@ -90,11 +90,11 @@
     },
     {
       "name": "settings.json",
-      "size": 863,
+      "size": 861,
       "path": "SAMP/settings.json",
       "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/settings.json",
       "gpu": "all",
-      "md5": "9d9d7ad4ae22c22615a7074444d63e30"
+      "md5": "e59bbde68486ff04cd837748d76ecbb8"
     },
     {
       "name": "svlog.txt",
