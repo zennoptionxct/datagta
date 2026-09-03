@@ -1,14 +1,6 @@
 {
   "files": [
     {
-      "name": "chat.log",
-      "size": 13803,
-      "path": "SAMP/chat.log",
-      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/chat.log",
-      "gpu": "all",
-      "md5": "83dec4b4c58b51c29d75e38f499c1472"
-    },
-    {
       "name": "colorcycle.dat",
       "size": 15638,
       "path": "SAMP/colorcycle.dat",
@@ -55,14 +47,6 @@
       "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/SAMP.ide",
       "gpu": "all",
       "md5": "5a36a5df8dfcab05900c38d75acaf594"
-    },
-    {
-      "name": "samp.log",
-      "size": 58465,
-      "path": "SAMP/samp.log",
-      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/samp.log",
-      "gpu": "all",
-      "md5": "b1408cd9235eff70353744183dc423e1"
     },
     {
       "name": "script.img",
@@ -143,14 +127,6 @@
       "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/vehicles.ide",
       "gpu": "all",
       "md5": "bdc3a0fced2402c5bc61585714457d4b"
-    },
-    {
-      "name": "voice.log",
-      "size": 795,
-      "path": "SAMP/voice.log",
-      "url": "https://cdn.jsdelivr.net/gh/zennoptionxct/datagta@main/files/SAMP/voice.log",
-      "gpu": "all",
-      "md5": "726abda515e05886cab33a8c170c8c5f"
     },
     {
       "name": "WEAPON.dat",
